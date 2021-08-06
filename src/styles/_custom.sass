@@ -1,0 +1,347 @@
+.titulo-principal
+  &__numero
+    background-color: $color-acento-botones !important
+
+.titulo-segundo
+  &::after
+    border-left: solid 50px $color-acento-botones !important
+
+.slyder-b
+  &__img
+    background: url('../assets/curso/gradient-bg-1.png')
+    background-repeat: no-repeat
+    background-size: cover
+    background-position: center center
+    padding: 1rem
+  img
+    max-height: 18rem
+    margin: 0 auto
+    width: auto
+
+
+.container 
+  &__m_4
+    margin: 0rem -3rem !important
+    padding: 1rem 3rem !important
+    background-color: pink
+  &__gbg2
+    background: url('../assets/curso/gradient-bg-2.png')
+    background-repeat: no-repeat
+    background-size: cover
+    background-position: center 
+
+.bw1
+  background: url('../assets/curso/blue-wave.svg')
+  background-repeat: no-repeat
+  background-size: contain
+  background-position: center bottom
+
+.bw2
+  background: url('../assets/curso/blue-wave2.svg')
+  background-repeat: no-repeat
+  background-size: contain
+  background-position: center top
+
+.bw3    
+  background: url('../assets/curso/blue-wave3.svg')
+  background-repeat: no-repeat
+  background-size: contain
+  background-position: center center
+
+.img-infografica__item__dot
+  &::before
+    background-color: #ffffff !important
+    width: 1.7rem !important
+    height: 1.7rem !important
+  &::after
+    background-color: transparent !important
+
+.tarjeta-avatar.infografica
+  img
+    width: 6rem !important
+    margin-bottom: 0
+  .tarjeta
+    padding-top: 1rem !important
+    border-radius: 1rem !important
+
+.tarjeta-avatar.infografica2
+  img
+    width: 60% !important
+    margin-bottom: 0 !important
+  .tarjeta
+    margin-top: -5rem !important
+    padding-top: 4rem !important
+    border-radius: 1rem !important
+
+.tarjeta-avatar.infografica3
+  img
+    width: 60% !important
+    margin-bottom: 0 !important
+  .tarjeta
+    margin-top: -3.5rem !important
+    padding-top: 3rem !important
+    border-radius: 1rem !important
+    background-color: #FFE2BD !important
+    h4,p
+      color: $color-sistema-texto !important
+
+.cac
+  color: $color-acento-contenido !important
+  i
+    color: $color-acento-contenido !important
+
+.cs
+  color: $color-secundario !important
+
+.cp
+  color: $color-primario
+
+.cab
+  color: $color-acento-botones !important
+  ul
+    li
+      p
+        i
+          color: $color-acento-botones !important
+
+.bloque-texto-a.color-acento-botones
+  background-color: #fafafa
+
+.bloque-texto-a.color-acento-botones
+  &::before
+    background-color: #FFE2BD !important
+
+.cajon.color-primario
+  background-color: rgba(178,235,242,.45) !important
+
+.banner-interno__titulo__icono
+  i
+    color: $color-sistema-texto !important
+
+///////////////////////
+.clrSystem
+  color: #12263F !important
+
+.clr-link
+  text-decoration: underline !important
+
+.custom-clr1
+  background-color: #F6F6F6  
+  &::before     
+    background-color: #B2EBF2
+
+.custom-clr2
+  background-color: #B2EBF2
+  &::before
+    background-color: #F6F6F6   
+
+.orange
+  color: $color-acento-botones 
+
+.bg-mint
+  margin: 0rem -6rem !important
+  padding: 2rem 6rem !important 
+  background-color: #EAF9FB
+
+.tarjeta-cyan
+  padding: 2rem
+  background-color: #B2EBF2
+  height: 100%
+
+.tarjeta-mint
+  padding: 2rem
+  background-color: #B2EBF2
+  height: 100% 
+
+.tarjeta-azul
+  padding: 2rem
+  height: 100%
+  background-color: #F6F6F6
+  transition: all ease-in-out 0.35s
+  &:hover
+    background-color: #1565C0
+    p
+      color: white
+
+
+.highlight
+  background-color: $color-primario
+
+.cajon-naranja
+  background-color:#FFEFDC
+  &::before
+    background-color: #FB8C00
+
+.cajon-azul
+  background-color:#E8F9FB
+  &::before
+    background-color: #26AAB7
+
+// Utilidades listados
+.lista-ul--naraja
+  li    
+    i.fas.fa-pen-square
+      color: #FB8C00 !important
+    i.fas.fa-angle-right
+      color: #FB8C00 !important
+  
+
+.mr-list
+  margin-right: 7px
+
+// Separadores
+.hr_blank
+  width: 100%
+  height: 3px
+  margin: 2rem 0
+
+.hr-dashed
+  margin: 2.5rem 0
+  border-top: 2px dashed #b0c0d2
+
+//Tarjetas
+.tarjeta-gris
+  height: 100% !important
+  padding: 1rem
+  background-color: #F6F6F6
+
+// boton Ancla UP
+.btn_up
+  a
+    i
+      padding: 0.5rem 0.7rem
+      border-radius: 7px
+      background-color: #B2EBF2
+
+//squares
+.square
+  color: white
+  padding: 0.25rem 0.5rem
+  margin-right: 7px
+  background-color: orange
+
+.singleTop-txt-deco
+  position: relative
+  &::before
+    content: ""
+    position: absolute
+    top: -10px
+    left: -15px
+    width: 45%
+    height: 20%
+    background-color:#FFEFDC
+    z-index: 0
+  p, h2, h3, h4, h5, h6
+    position: relative
+    z-index: 1
+
+
+.dual-txt-deco
+  position: relative
+  &::before
+    content: ""
+    position: absolute
+    top: -10px
+    left: -10px
+    width: 45%
+    height: 20%
+    background-color:#FFEFDC
+    z-index: 0
+  &::after
+    content: ""
+    position: absolute
+    bottom: -10px
+    right: -10px
+    width: 45%
+    height: 20%
+    background-color:#E8F9FB
+    z-index: 0
+  p 
+    position: relative
+    z-index: 1
+
+// Tarjetas Avatar
+$V-avatar--size: 90px
+$crd-V-avatar--marginTop: calc(#{$V-avatar--size} / 2)
+
+.crd-V-avatar
+  position: relative  
+  height: 100%
+  &::before
+    content: ""
+    position: absolute
+    bottom: 0
+    left: 0
+    width: 100%
+    //height: calc( 100% - 45px )
+    height: calc(100% - #{$crd-V-avatar--marginTop})
+    background-color: #B2EBF2
+    border-radius: 12px
+  .crd-V-avatar--icon
+    position: relative
+    margin-bottom: 1rem
+    figure
+      img
+        width: $V-avatar--size
+  .crd-V-avatar--body
+    position: relative
+    padding: 2rem
+
+//Tarjetas Horizontales AVATAR
+.crd-h-avatar
+  position: relative
+  display: flex  
+  padding-top: 2rem
+  height: 100%
+  &::before
+    content: ""
+    position: absolute
+    top: 0
+    right: 0
+    width: calc( 100% - 35px )
+    height: 100%
+    background-color: #FEE2BF
+    border-radius: 15px
+  &--icon
+    position: relative  
+    flex: 0 0 auto  
+    img
+      width: 65px
+  &--body
+    position: relative
+    padding: 0 2rem 2rem 2rem
+
+
+// Linea de tiempo
+.linea-tiempo-d.color-secundario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  background-color: #FEE2BF
+  color: #12263F
+
+// Pestañas
+.acordion__titulo
+  h3
+    font-size: 13pt !important
+
+// Custom SLIDER
+
+.slyder-a__btn--sigt
+  right: -55px
+.slyder-a__btn--atrs
+  left: -55px
+.slyder-a__bullets
+  bottom: -30px
+
+.tarjeta-celeste
+  padding: 4rem 2rem
+  background-color: #E7F8FC
+  height: 100%
+
+
+//Custom steps 
+.text-end
+  text-align: left !important
+
+//Custom pestañas
+.tarjeta.color-acento-botones--borde  
+  border-color: #DCE8F6
+
