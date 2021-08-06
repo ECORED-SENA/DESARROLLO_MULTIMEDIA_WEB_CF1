@@ -1,8 +1,8 @@
-# **Propuesta y concepto gráfico del proyecto multimedia**
+# **Conceptualización del desarrollo multimedia y web**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/DESARROLLO_MULTIMEDIA_WEB_CF3/](https://ecored-sena.github.io/DESARROLLO_MULTIMEDIA_WEB_CF3/)
+[https://ecored-sena.github.io/DESARROLLO_MULTIMEDIA_WEB_CF1/](https://ecored-sena.github.io/DESARROLLO_MULTIMEDIA_WEB_CF1/)
 
 #
 

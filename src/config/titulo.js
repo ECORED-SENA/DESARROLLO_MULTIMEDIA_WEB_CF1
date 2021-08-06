@@ -1,1 +1,1 @@
-module.exports = 'Propuesta y concepto gráfico del proyecto multimedia'
+module.exports = 'Conceptualización del desarrollo multimedia y web'
