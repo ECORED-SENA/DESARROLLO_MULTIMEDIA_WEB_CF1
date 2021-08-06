@@ -11,7 +11,7 @@
     ul.fa-ul.lista-ul--naraja.mb-4
       li.mb-2 #[span.fa-li #[i.fas.fa-pen-square]] Un objeto real que funcione como referencia para la interpretación y creación del objeto virtual.
       li.mb-2 #[span.fa-li #[i.fas.fa-pen-square]] Un dispositivo con cámara; es decir, un teléfono móvil inteligente, con el cual se pueda transmitir la imagen del objeto real.
-      li.mb-2 #[span.fa-li #[i.fas.fa-pen-square]] Un software integral que pueda interpretar la señal transmitida por la cámara del dispositivo móvil.
+      li.mb-2 #[span.fa-li #[i.fas.fa-pen-square]] Un #[i software] integral que pueda interpretar la señal transmitida por la cámara del dispositivo móvil.
     p.mb-5 Se pueden explorar diferentes puntos sobre la realidad aumentada, a través del siguiente recurso:
 
     .row.mb-5
@@ -30,7 +30,7 @@
               p A nivel mundial los usuarios están generando conciencia de la importancia que ha tomado  la tecnología  en la vida de las personas, por ello surgen nuevas alternativas dentro de los procesos de transformación digital, con la finalidad de alcanzar distintos objetivos, en diferentes entornos y contextos de desarrollo personal.
           div(titulo="¿Cómo funciona?")
             .col-12
-              p Realmente su funcionamiento es muy sencillo, la interacción sucede a través de un programa, de un marcador en el espacio físico y del GPS, a través de la cámara del dispositivo, el objeto real se transmite para el software, este recibe la imagen y la combina con las proyecciones 3D, son introducidas en la imagen y sobrepuestas en el entorno físico, reflejando el resultado de la RA al usuario.     
+              p Realmente su funcionamiento es muy sencillo, la interacción sucede a través de un programa, de un marcador en el espacio físico y del GPS, a través de la cámara del dispositivo, el objeto real se transmite para el #[i software], este recibe la imagen y la combina con las proyecciones 3D, son introducidas en la imagen y sobrepuestas en el entorno físico, reflejando el resultado de la RA al usuario.     
 
       .col-lg-5.order-1.order-lg-2
         figure
@@ -48,12 +48,12 @@
         figure.mb-4
           img(src="@/assets/curso/tema6/img_6_03.svg", alt="qr", style="width:400px;").m-auto
         h5.text-center.mb-4 QR Code
-        p Es una alternativa al código de barras tradicional, cuando la cámara del dispositivo móvil captura la imagen de la figura, el software transcribe ese contenido, como resultado puede ser un texto, una imagen o un enlace a un sitio web.
+        p Es una alternativa al código de barras tradicional, cuando la cámara del dispositivo móvil captura la imagen de la figura, el #[i software] transcribe ese contenido, como resultado puede ser un texto, una imagen o un enlace a un sitio #[i web].
       .col-lg-4
         figure.mb-4
           img(src="@/assets/curso/tema6/img_6_04.svg", alt="google translate", style="width:400px;").m-auto
         h5.text-center.mb-4 Google Translate 
-        p Permite detectar idiomas , traducir palabras y frases escritas en anuncios y textos automáticamente, usando una foto obtenida por medio del dispositivo móvil, un recurso muy útil y sencillo con un resultado óptimo claro para los usuarios.
+        p Permite detectar idiomas, traducir palabras y frases escritas en anuncios y textos automáticamente, usando una foto obtenida por medio del dispositivo móvil, un recurso muy útil y sencillo con un resultado óptimo claro para los usuarios.
         p De este modo, la aplicación interactúa con la cámara y presenta  informaciones virtuales en mundo real.
 
 
@@ -62,7 +62,7 @@
     #t_6_1.titulo-segundo
       h2 6.1 Características de la realidad aumentada
 
-    p Lo que hace a la realidad aumentada una tecnología con un potencial enorme y a su vez la convierte en una de las principales armas de innovación para los próximos años, son sus características que generan en el púbico emociones reales, lo que incluye al usuario y su realidad.
+    p Lo que hace a la realidad aumentada una tecnología con un potencial enorme y a su vez la convierte en una de las principales armas de innovación para los próximos años, son sus características que generan en el público emociones reales, lo que incluye al usuario y su realidad.
     p.mb-5 La realidad virtual consiste en introducir al usuario en un mundo diferente, mientras que la realidad aumentada permite ver en el mundo real con información añadida. A continuación, se pueden ver estas características:
 
     ImagenInfografica.color-secundario.mb-5
@@ -112,8 +112,9 @@
       .col-lg-6
         figure.mb-4
           img(src="@/assets/curso/tema6/img_6_2_01A.jpg", alt="imagenes", style="width:610px;").m-auto
-          figcaption https://www.youtube.com/watch?v=iEWGk7BU4iU&t=10s 
-        p.small #[strong Nota:] en el video que se reproduce desde el siguiente enlace se puede observar la interacción de la RA desde un celular.  Se aprecia como en el celular aparecen imágenes de RA cuando enfoca un elemento de la realidad.
+          figcaption #[a(href="https://www.youtube.com/watch?v=iEWGk7BU4iU&t=10s ", title="title", target="_blank") https://www.youtube.com/watch?v=iEWGk7BU4iU&t=10s]
+           
+        p.small #[strong Nota:] en el ejemplo mostrado anteriormente se puede observar la interacción de la RA desde un celular.  Se aprecia como en el celular aparecen imágenes de RA cuando enfoca un elemento de la realidad.
 
     .row.justify-content-center.mb-5
       .col-lg-6
@@ -125,8 +126,9 @@
       .col-lg-6
         figure.mb-4
           img(src="@/assets/curso/tema6/img_6_2_02A.jpg", alt="espacios", style="width:610px;").m-auto
-          figcaption https://www.youtube.com/watch?v=0XYpLQMOxPo&t=1s 
-        p.small #[strong Nota:] en el video que se reproduce desde el siguiente enlace se puede observar la interacción de la RA desde un celular en el interior de una fábrica; podemos detallar señales de diferentes partes del lugar.
+          figcaption #[a(href="https://www.youtube.com/watch?v=0XYpLQMOxPo&t=1s ", title="title", target="_blank") https://www.youtube.com/watch?v=0XYpLQMOxPo&t=1s] 
+          
+        p.small #[strong Nota:] en el ejemplo anterior se puede observar la interacción de la RA desde un celular en el interior de una fábrica; podemos detallar señales de diferentes partes del lugar.
 
     .row.justify-content-center.mb-5
       .col-lg-6
@@ -138,10 +140,11 @@
       .col-lg-6
         figure.mb-4
           img(src="@/assets/curso/tema6/img_6_2_03A.jpg", alt="lugares", style="width:610px;").m-auto
-          figcaption https://www.youtube.com/watch?v=larV8kC_D-w&feature=emb_logo   
-        p.small #[strong Nota:] en el video que se reproduce desde el siguiente enlace se puede observar la interacción de la RA desde un celular en espacios públicos, donde podemos encontrar diferente información que llaman PDI y traen información para el usuario.
+          figcaption #[a(href="https://www.youtube.com/watch?v=larV8kC_D-w&feature=emb_logo", title="title", target="_blank") https://www.youtube.com/watch?v=larV8kC_D-w&feature=emb_logo]
+        
+        p.small #[strong Nota:] en el ejemplo anterior se puede observar la interacción de la RA desde un celular en espacios públicos, donde podemos encontrar diferente información que llaman PDI y traen información para el usuario.
 
-    h3.mb-4 Tipos de Realidad Aumentada según su utilización
+    h3.mb-4 Tipos de Realidad Aumentada (RA) según su utilización
 
     figure.mb-0
       .video

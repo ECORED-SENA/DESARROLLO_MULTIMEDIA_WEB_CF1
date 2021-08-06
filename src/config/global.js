@@ -257,6 +257,12 @@ export default {
     },
     {
       referencia:
+        'BambuMobile. (2021). Tecnologías clave para el desarrollo de Apss.',
+      link:
+        'https://www.bambu-mobile.com/tecnologias-clave-para-el-desarrollo-de-apps/',
+    },
+    {
+      referencia:
         'Cadenas, R. (2019). ¿Qué necesito? Web Apss, App Nativa o App Hibrida.',
       link:
         'https://www.gsoft.es/articulos/que-necesito-web-apps-app-nativa-o-app-hibrida/',
@@ -316,7 +322,7 @@ export default {
     {
       termino: 'Adobe',
       significado:
-        'Adobe Inc.,  antes Adobe Systems Incorporated, es una empresa de software estadounidense con sede en San José fundada el 28 de febrero de 1982 por John Warnock y Charles Geschke.',
+        'Adobe Inc., antes Adobe Systems Incorporated, es una empresa de software estadounidense con sede en San José fundada el 28 de febrero de 1982 por John Warnock y Charles Geschke.',
     },
     {
       termino: 'Android',
@@ -382,19 +388,18 @@ export default {
   complementario: [
     {
       texto:
-        'Universidad de Antioquia. (2020). ¿Qué es la multimedia? [video]. Youtube. https://www.youtube.com/watch?v=e-lQYKYbOtI',
+        'Universidad de Antioquia. (2020). ¿Qué es la multimedia? [video]. Youtube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=e-lQYKYbOtI',
     },
     {
       texto:
-        'Universidad de Castilla-La Mancha. (2019) Definición de Multimedia. [video]. Youtube. https://www.youtube.com/watch?v=-vlRQZX3WLg',
+        'Universidad de Castilla-La Mancha. (2019) Definición de Multimedia. [video]. Youtube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=-vlRQZX3WLg',
     },
     {
-      texto:
-        'Acosta, A. (2021). Tipos de Multimedia. [video]. Youtube. https://www.youtube.com/watch?v=_qtRl-aiczQ&t=64s',
+      texto: 'Acosta, A. (2021). Tipos de Multimedia. [video]. Youtube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=_qtRl-aiczQ&t=64s',
     },
@@ -412,7 +417,7 @@ export default {
     },
     {
       texto:
-        'EDteam. (2020). ¿Qué lenguajes existen para el desarrollo móvil? [video]. Youtube. https://www.youtube.com/watch?v=H8tykt3pKTU',
+        'EDteam. (2020). ¿Qué lenguajes existen para el desarrollo móvil? [video]. Youtube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=H8tykt3pKTU',
     },
@@ -424,13 +429,13 @@ export default {
     },
     {
       texto:
-        'Scoreapps. (2021). Cómo crear una App móvil: paso a paso (sin saber programar). [video]. Youtube. https://www.youtube.com/watch?v=rA6kXrUXVAI',
+        'Scoreapps. (2021). Cómo crear una App móvil: paso a paso (sin saber programar). [video]. Youtube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=rA6kXrUXVAI',
     },
     {
       texto:
-        'Motion Graphics en Koncepto. (2020). Las 50 + aplicaciones de Adobe. [video]. Youtube. https://www.youtube.com/watch?v=3YeOJaolM38',
+        'Motion Graphics en Koncepto. (2020). Las 50 + aplicaciones de Adobe. [video]. Youtube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=3YeOJaolM38',
     },
@@ -441,13 +446,13 @@ export default {
     },
     {
       texto:
-        'Edteam. (2020). Tipos de lenguajes de programación. [video]. Youtube. [video]. Youtube. https://www.youtube.com/watch?v=gFMMmi-EYEM',
+        'Edteam. (2020). Tipos de lenguajes de programación. [video]. Youtube. [video]. Youtube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=gFMMmi-EYEM',
     },
     {
       texto:
-        'Educar Portal. (2019). ¿Qué son los lenguajes de programación y para qué sirven | Computación y programación? [video]. Youtube. https://www.youtube.com/watch?v=EHiiNhLRIGc',
+        'Educar Portal. (2019). ¿Qué son los lenguajes de programación y para qué sirven | Computación y programación? [video]. Youtube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=EHiiNhLRIGc',
     },
@@ -490,11 +495,6 @@ export default {
         cargo: 'Experto temático',
         centro:
           'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
-      },
-      {
-        nombre: 'Giovanna Escobar',
-        cargo: 'Diseñadora Instruccional',
-        centro: 'Centro de Servicios de Salud - Regional Antioquia',
       },
       {
         nombre: 'Andrés Felipe Velandia Espitia',
@@ -580,7 +580,13 @@ export default {
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: '--',
+        nombre: 'Jhana Johanna Bustillo Ardila',
+        cargo: 'Validación de diseño y contenido',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

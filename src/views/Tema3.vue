@@ -11,7 +11,7 @@
     .row.justify-content-center.mb-4      
       .col-lg-7
         .singleTop-txt-deco
-          p Según Carballar (2013), internet es una herramienta de comunicación formada por una red de ordenadores de diferentes tipos, interconectados a través de diversas tecnologías. Pero lo que hace que todos puedan funcionar juntos es la existencia de un estándar en el proceso de comunicación llamado TCP/IP o Protocolo de Control de Transmisión/ Protocolo de Internet, el cual hace posible la transferencia de datos en la red y entre equipos informáticos. Un estudio completo de TCP/IP debe llevar a la configuración de una red específica para la óptima transmisión de la información, si algún día se quiere profundizar en la arquitectura de este modelo es importante leer el artículo: “Análisis de una Red en un Entorno Ipv6: Una Mirada Desde Las Intrusiones de Red y El Modelo TCP/IP” que se encuentra en la bibliografía.
+          p Según Carballar (2013), internet es una herramienta de comunicación formada por una red de ordenadores de diferentes tipos, interconectados a través de diversas tecnologías. Pero lo que hace que todos puedan funcionar juntos es la existencia de un estándar en el proceso de comunicación llamado TCP/IP o Protocolo de Control de Transmisión/ Protocolo de Internet, el cual hace posible la transferencia de datos en la red y entre equipos informáticos. Un estudio completo de TCP/IP debe llevar a la configuración de una red específica para la óptima transmisión de la información, si algún día se quiere profundizar en la arquitectura de este modelo es importante leer el artículo: #[i “Análisis de una Red en un Entorno Ipv6: Una Mirada Desde Las Intrusiones de Red y El Modelo TCP/IP”] que se encuentra en la bibliografía.
       .col-lg-5
         figure
           img(src="@/assets/curso/tema3/img_3_01.svg", alt="alt", style="width:550px;").m-auto
@@ -67,8 +67,8 @@
               img(src='@/assets/curso/tema3/Slide_05.jpg', alt='Texto que describa la imagen')
         .row
           .col-md-6.mb-4.mb-md-0
-            h5 Web
-            p  Este servicio nos permite realizar diferentes actividades de manera remota; como consultar textos, imágenes, videos, audios y enviar información entre muchas otras. La información a la que pueden acceder los usuarios está disponible a través de sitios (conjunto de páginas web) o páginas web a los que se puede acceder a través de los navegadores web.         
+            h5 #[i Web]
+            p  Este servicio nos permite realizar diferentes actividades de manera remota; como consultar textos, imágenes, videos, audios y enviar información entre muchas otras. La información a la que pueden acceder los usuarios está disponible a través de sitios (conjunto de páginas #[i web]) o páginas #[i web] a los que se puede acceder a través de los navegadores #[i web].         
           .col-md-6
             figure
               img(src='@/assets/curso/tema3/Slide_06.jpg', alt='Texto que describa la imagen')
@@ -76,17 +76,17 @@
     separador
 
     #t_3_1.titulo-segundo
-      h2 3.1 Navegador web
+      h2 3.1 Navegador #[i web]
 
-    p.mb-5 Para acceder a internet los usuarios necesitan normalmente un ordenador o PC, una red (telefónica, de TV, móvil, radio, satélite, entre otros.), un dispositivo de comunicación (módem) y un proveedor de servicio. Además de lo anterior para acceder a un sitio en la web es indispensable poseer un navegador que lo permita. 
+    p.mb-5 Para acceder a internet los usuarios necesitan normalmente un ordenador o PC, una red (telefónica, de TV, móvil, radio, satélite, entre otros.), un dispositivo de comunicación (módem) y un proveedor de servicio. Además de lo anterior para acceder a un sitio en la #[i web] es indispensable poseer un navegador que lo permita. 
          
     .bloque-texto-a.custom-clr1.p-4.p-md-5.mb-5 
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
-          h3 Un navegador web es:
+          h3 Un navegador #[i web] es:
         .col-lg-8
           .bloque-texto-a__texto.p-4
-            p Un programa que permite ver la información que contiene el sitio web visitado.
+            p Un programa que permite ver la información que contiene el sitio #[i web] visitado.
 
     .row.justify-content-center
       .col-lg-6.order-2.order-lg-1
@@ -95,16 +95,16 @@
         AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="Plataforma de ejecución")
             .col-12
-              p Se puede llamar plataforma de ejecución al sistema operativo del ordenador, el cual facilita la interacción entre el usuario, el #[i hardware] y el software, respecto a esto el navegador safari de los PC marca Apple solo funcionan en el sistema operativos IOS.
+              p Se puede llamar plataforma de ejecución al sistema operativo del ordenador, el cual facilita la interacción entre el usuario, el #[i hardware] y el #[i software], respecto a esto el navegador safari de los PC marca Apple solo funcionan en el sistema operativos IOS.
           div(titulo="Características del navegador")
             .col-12
               p Los navegadores ofrecen funcionalidades como administración de marcadores, almacenamiento seguro de contraseñas digitadas en el PC y datos digitados en formulario, corrección ortográfica y herramientas de búsqueda.
           div(titulo="Funcionalidades de accesibilidad")
             .col-12
               p Estas funciones corresponden a la personalización de la interfaz que visualiza el usuario; por ejemplo, permitir que pueda navegar por pestañas, bloquear las ventanas emergentes, habilitar opciones de zoom (alejar o acercar) y funciones de búsqueda de textos entre otros.
-          div(titulo="Licencia de software")
+          div(titulo="Licencia de #[i software]")
             .col-12
-              p Existen los navegadores de código libre para modificaciones si desea el usuario y código propietario que no permite el acceso para la realización de cambios, como se verá a continuación en los tipos de navegadores
+              p Existen los navegadores de código libre para modificaciones si desea el usuario y código propietario que no permite el acceso para la realización de cambios, como se verá a continuación en los tipos de navegadores.
 
       .col-lg-6.order-1.order-lg-2
         figure
@@ -115,7 +115,7 @@
     #t_3_2.titulo-segundo
       h2 3.2 Tipos de navegadores
 
-    p.mb-5 Hay diferentes navegadores para que los usuarios puedan acceder a los sitios web y puedan visualizarlos de la misma forma en cada uno de ellos, los cuales se relacionan a continuación en la siguiente tabla:
+    p.mb-5 Hay diferentes navegadores para que los usuarios puedan acceder a los sitios #[i web] y puedan visualizarlos de la misma forma en cada uno de ellos, los cuales se relacionan a continuación en la siguiente tabla:
 
     .row.mb-5
       .col-lg-6.mb-4
@@ -124,7 +124,7 @@
             img(src="@/assets/curso/tema3/img_3_04.png", alt="alt")
           .crd-h-avatar--body
             h5 Google Chrome
-            p Navegador web desarrollado por Google en un lenguaje de programación de código abierto; es decir que éste está a disposición de todo el mundo de manera gratuita.
+            p Navegador #[i web] desarrollado por Google en un lenguaje de programación de código abierto; es decir que éste está a disposición de todo el mundo de manera gratuita.
             p Está disponible de manera gratuita para plataformas de Windows, MacOS, Android, IOS, Linux, entre otros.
             p.mb-0 Contempla cada pestaña como un proceso independiente, para evitar que un problema en una pestaña pueda afectar a las otras.
       .col-lg-6.mb-4
@@ -133,7 +133,7 @@
             img(src="@/assets/curso/tema3/img_3_05.png", alt="alt")
           .crd-h-avatar--body
             h5 Mozilla Firefox
-            p Navegador web desarrollado por la fundación Mozilla en un lenguaje de programación de código abierto. 
+            p Navegador #[i web] desarrollado por la fundación Mozilla en un lenguaje de programación de código abierto. 
             p Está disponible de manera gratuita para plataformas de Windows, MacOS, Android, IOS, Linux, entre otros.
             p.mb-0 El gran número de desarrolladores que posee Mozilla ha permitido que se hayan corregido al 100% todos los errores que se pueden presentar en la navegación, por lo tanto es de los navegadores más estables y seguros.
       .col-lg-6.mb-4
@@ -142,16 +142,16 @@
             img(src="@/assets/curso/tema3/img_3_06.png", alt="alt")
           .crd-h-avatar--body
             h5 Safari
-            p Navegador web desarrollado por Apple Inc, en un lenguaje de programación de código cerrado; es decir que lenguaje en el que está hecho no está disponible para cualquier usuario.
+            p Navegador #[i web] desarrollado por Apple Inc, en un lenguaje de programación de código cerrado; es decir que lenguaje en el que está hecho no está disponible para cualquier usuario.
             p Está disponible para plataformas de Windows, MacOS, IOS.
-            p.mb-0 Este navegador ha priorizado la navegación privada utilizando el sistema sandboxing para bloquear sitios web con código malicioso.
+            p.mb-0 Este navegador ha priorizado la navegación privada utilizando el sistema sandboxing para bloquear sitios #[i web] con código malicioso.
       .col-lg-6.mb-4
         .crd-h-avatar
           .crd-h-avatar--icon            
             img(src="@/assets/curso/tema3/img_3_07.png", alt="alt")
           .crd-h-avatar--body
             h5 Microsoft Edge
-            p Navegador web integrado al sistema operativo Microsoft Windows 10 para el sistema operativo Microsoft Windows en el año de 1995, desarrollado en un lenguaje de programación de código cerrado.
+            p Navegador #[i web] integrado al sistema operativo Microsoft Windows 10 para el sistema operativo Microsoft Windows en el año de 1995, desarrollado en un lenguaje de programación de código cerrado.
             p Está disponible para plataformas de Windows, Android, IOS.
             p.mb-0 Además de contemplar aspectos de seguridad para el usuario tiene una ventaja importante al permitir importar las páginas favoritas que se han abierto en otros exploradores.
       .col-lg-6.mb-4
@@ -160,7 +160,7 @@
             img(src="@/assets/curso/tema3/img_3_08.png", alt="alt")
           .crd-h-avatar--body
             h5 Opera
-            p Navegador web desarrollado por la empresa de origen noruego Opera Software, soporta gran cantidad de idiomas y tiene protección antifraude entre otras características.
+            p Navegador #[i web] desarrollado por la empresa de origen noruego Opera Software, soporta gran cantidad de idiomas y tiene protección antifraude entre otras características.
             p Está disponible para plataformas de Windows, Android, IOS, Linux y free BSD.
             p.mb-0 Este navegador posee una característica importante respecto a eliminar de manera sencilla los datos privados de los usuarios.
 
@@ -180,23 +180,23 @@
         iframe(width="560" height="315" src="https://www.youtube.com/embed/voDZXzAOKgw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       //figcaption Video: Leyenda del video 
 
-    p.mb-5 De acuerdo con la estructura anterior la acción que debe realizar un usuario para acceder a un sitio web es simplemente introducir su dirección (URL) en la barra de direcciones para que el navegador muestre el contenido en el área de la página. 
+    p.mb-5 De acuerdo con la estructura anterior la acción que debe realizar un usuario para acceder a un sitio #[i web] es simplemente introducir su dirección (URL) en la barra de direcciones para que el navegador muestre el contenido en el área de la página. 
 
     .container__m_4.bw3
       .row.justify-content-center
         .col-lg-7
-          h4 Servidor web
+          h4 Servidor #[i web]
           p Un servidor es un computador o también se suele llama ordenador conectado a internet que almacena cualquier tipo de información y está diseñado para responder a las peticiones de los usuarios. 
-          p.mb-4 A diferencia de un servidor cualquiera, un servidor web es un computador que está asociado al #[i hardware] y al software trabajando en combinación para: 
+          p.mb-4 A diferencia de un servidor cualquiera, un servidor #[i web] es un computador que está asociado al #[i hardware] y al #[i software] trabajando en combinación para: 
 
           ul.fa-ul.lista-ul--naraja.mb-5
-            li.mb-3 #[span.fa-li #[i.fas.fa-pen-square]] En cuanto al #[i hardware]: almacenar todos los archivos que hacen parte de un sitio web; por ejemplo, los documentos escritos en lenguaje de código HTML, las hojas de estilo CSS y los archivos JavaScript. Responde a las peticiones que realiza el usuario respecto a los sitios web cuando introduce una dirección URL (#[i Uniform Resource Locator] o localizador Uniforme de Recursos) representada por un nombre: sena.edu. 
-            li.mb-3 #[span.fa-li #[i.fas.fa-pen-square]] En cuanto al #[i software]: poder entregar los archivos solicitados por el usuario haciendo uso del protocolo HTTP o protocolo de transferencia de hipertexto, que es el que utiliza el navegador para que se puedan visualizar las páginas web.
+            li.mb-3 #[span.fa-li #[i.fas.fa-pen-square]] En cuanto al #[i hardware]: almacenar todos los archivos que hacen parte de un sitio #[i web]; por ejemplo, los documentos escritos en lenguaje de código HTML, las hojas de estilo CSS y los archivos JavaScript. Responde a las peticiones que realiza el usuario respecto a los sitios #[i web] cuando introduce una dirección URL (#[i Uniform Resource Locator] o localizador Uniforme de Recursos) representada por un nombre: sena.edu. 
+            li.mb-3 #[span.fa-li #[i.fas.fa-pen-square]] En cuanto al #[i software]: poder entregar los archivos solicitados por el usuario haciendo uso del protocolo HTTP o protocolo de transferencia de hipertexto, que es el que utiliza el navegador para que se puedan visualizar las páginas #[i web].
 
         .col-lg-5
           img(src="@/assets/curso/tema3/img_3_10.png", alt="alt", style="width:350px;").m-auto  
 
-    p.mb-5 De acuerdo con lo anterior cuando el usuario hace una petición de un sitio web a través del navegador, este lo solicita al servidor web mediante el protocolo HTTP. Cuando la petición llega al servidor correspondiente (hardware), el HTTP (software) recibe el pedido y envía el sitio web solicitado también por la vía HTTP.           
+    p.mb-5 De acuerdo con lo anterior cuando el usuario hace una petición de un sitio #[i web] a través del navegador, este lo solicita al servidor #[i web] mediante el protocolo HTTP. Cuando la petición llega al servidor correspondiente (#[i hardware]), el HTTP (#[i software]) recibe el pedido y envía el sitio #[i web] solicitado también por la vía HTTP.           
 
     h4.mb-5 Tipos de servidores
 
@@ -205,16 +205,16 @@
         .tarjeta.tarjeta-mint
           figure.mb-4
             img(src="@/assets/curso/tema3/img_3_11.svg", alt="alt", style="width:350px;").m-auto
-          h5.text-center Servidor web estático
-          p.mb-0 Es un computador que aloja sitios web y contiene software HTTP que envía los archivos tal como están almacenados, cuando son solicitados a través de un navegador. Lo anterior quiere decir que el contenido del sitio web también es estático, ya que se conserva invariante ante las acciones que pueda realizar el usuario y su objetivo es presentar datos que no cambian con el paso del tiempo.
+          h5.text-center Servidor #[i web] estático
+          p.mb-0 Es un computador que aloja sitios #[i web] y contiene #[i software] HTTP que envía los archivos tal como están almacenados, cuando son solicitados a través de un navegador. Lo anterior quiere decir que el contenido del sitio #[i web] también es estático, ya que se conserva invariante ante las acciones que pueda realizar el usuario y su objetivo es presentar datos que no cambian con el paso del tiempo.
       .col-lg-5
         .tarjeta.tarjeta-mint
           figure.mb-4
             img(src="@/assets/curso/tema3/img_3_12.svg", alt="alt", style="width:350px;").m-auto
-          h5.text-center Servidor web dinámico
-          p.mb-0 Es un computador que aloja sitios web y contiene software HTTP y bases de datos que actualizan los archivos almacenados; por lo tanto, interactúa con el usuario y responde a sus solicitudes procesando la información entregada por éste. Lo anterior significa que el contenido de los sitios web solicitados cambia con el tiempo, sufriendo alteraciones y modificaciones por las acciones que realiza el usuario sobre los datos que presenta.
+          h5.text-center Servidor #[i web] dinámico
+          p.mb-0 Es un computador que aloja sitios #[i web] y contiene #[i software] HTTP y bases de datos que actualizan los archivos almacenados; por lo tanto, interactúa con el usuario y responde a sus solicitudes procesando la información entregada por éste. Lo anterior significa que el contenido de los sitios #[i web] solicitados cambia con el tiempo, sufriendo alteraciones y modificaciones por las acciones que realiza el usuario sobre los datos que presenta.
 
-    p Como se observa en la imagen anterior los servidores web estáticos entregan la información tal cual como la tiene almacenada al ser requerida por el cliente sin hacer ninguna modificación y los servidores web dinámicos procesan la información solicitada a través de una base de datos antes de ser entregada al cliente. 
+    p Como se observa en la imagen anterior los servidores #[i web] estáticos entregan la información tal cual como la tiene almacenada al ser requerida por el cliente sin hacer ninguna modificación y los servidores #[i web] dinámicos procesan la información solicitada a través de una base de datos antes de ser entregada al cliente. 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5.mb-4.mb-lg-0        
@@ -222,33 +222,33 @@
           img(src="@/assets/curso/tema3/img_3_13.png", alt="alt", style="width:350px;").m-auto
       .col-lg-7
         h5 ¿Cuándo utilizar un servidor estático?
-        p Se utiliza cuando se solicitan sitios o páginas web meramente informativas y si eres tú el desarrollador se deberá utilizar este servidor cuando se necesita construir páginas que contienen texto, imágenes o fotos que ilustraran al usuario sobre algún tema o producto que quieres que ellos conozcan y solamente se informen.     
+        p Se utiliza cuando se solicitan sitios o páginas #[i web] meramente informativas y si eres tú el desarrollador se deberá utilizar este servidor cuando se necesita construir páginas que contienen texto, imágenes o fotos que ilustraran al usuario sobre algún tema o producto que quieres que ellos conozcan y solamente se informen.     
 
         h5 ¿Cuándo utilizar un servidor dinámico? 
-        p Se utiliza cuando se requiera procesar algún tipo de información al interactuar con el sitio o página web. Entonces se puede utilizar este servidor cuando se requiera, por ejemplo:
+        p Se utiliza cuando se requiera procesar algún tipo de información al interactuar con el sitio o página #[i web]. Entonces se puede utilizar este servidor cuando se requiera, por ejemplo:
 
         ul.fa-ul.lista-ul--naraja.mb-5
           li.mb-3 #[span.fa-li #[i.fas.fa-pen-square]] Crear una tienda virtual de venta de productos o servicios o comercio electrónico (e-commerce). 
           li.mb-3 #[span.fa-li #[i.fas.fa-pen-square]] Crear un blog con el objeto de publicar contenidos de un tema específico de interés para un público objetivo que puede dejar sus comentarios. 
           li.mb-3 #[span.fa-li #[i.fas.fa-pen-square]] Crear foros para propiciar espacios de discusión sobre temas de interés.
-          li.mb-3 #[span.fa-li #[i.fas.fa-pen-square]] Crear un portal web con diferentes recursos como enlaces a otros sitios o buscadores.
+          li.mb-3 #[span.fa-li #[i.fas.fa-pen-square]] Crear un portal #[i web] con diferentes recursos como enlaces a otros sitios o buscadores.
           li.mb-3 #[span.fa-li #[i.fas.fa-pen-square]] Crear páginas sencillas con pocos enlaces e información básica con el objeto de conseguir que los visitantes sean seguidores diligenciando formularios de inscripción a la página.
 
-    h3 Hosting
+    h3 #[i Hosting]
 
-    p El hosting es el espacio de memoria proporcionado por los servidores web para el alojamiento de los archivos de la aplicación web que se tenga, compuesto por documentos con lenguaje de código HTML, PHP, Java Scripts, hojas de estilo CSS, imágenes, documentos PDF, entre otros. Con el servicio de alojamiento los sitios o páginas web estarán disponibles en la red de internet para que puedan ser consultados por los usuarios o clientes en cualquier parte del mundo y a cualquier hora.
+    p El #[i hosting] es el espacio de memoria proporcionado por los servidores #[i web] para el alojamiento de los archivos de la aplicación #[i web] que se tenga, compuesto por documentos con lenguaje de código HTML, PHP, Java Scripts, hojas de estilo CSS, imágenes, documentos PDF, entre otros. Con el servicio de alojamiento los sitios o páginas #[i web] estarán disponibles en la red de internet para que puedan ser consultados por los usuarios o clientes en cualquier parte del mundo y a cualquier hora.
 
-    p.mb-5 El hosting lo proveen las empresas prestadoras de servicios de internet que poseen los servidores en propiedad o en alquiler con las especificaciones de hardware y software para el almacenamiento de las páginas web de los clientes.  Estas empresas ofrecen el hosting a través de planes con pagos anuales y con una serie de servicios incluidos de acuerdo con el tipo de plan contemplando las siguientes características:
+    p.mb-5 El #[i hosting] lo proveen las empresas prestadoras de servicios de internet que poseen los servidores en propiedad o en alquiler con las especificaciones de #[i hardware] y #[i software] para el almacenamiento de las páginas #[i web] de los clientes.  Estas empresas ofrecen el #[i hosting] a través de planes con pagos anuales y con una serie de servicios incluidos de acuerdo con el tipo de plan contemplando las siguientes características:
 
     .container__m_4.bw1.mb-5
       .row.justify-content-center
         .col-lg-7
           ul.fa-ul.lista-ul--naraja
-            li.mb-3 #[span.fa-li #[i.fas.fa-pen-square]] Cantidad de espacio o memoria disponible para alojar los archivos que conforman el sitio web.
+            li.mb-3 #[span.fa-li #[i.fas.fa-pen-square]] Cantidad de espacio o memoria disponible para alojar los archivos que conforman el sitio #[i web].
             li.mb-3 #[span.fa-li #[i.fas.fa-pen-square]] Transferencia máxima de archivos mensualmente generados por los visitantes y enviaos al servidor.
             li.mb-3 #[span.fa-li #[i.fas.fa-pen-square]] Número de cuentas de correo asociadas al dominio (empresa) de acuerdo con el plan contratado.
             li.mb-3 #[span.fa-li #[i.fas.fa-pen-square]] Registrar un dominio de primer nivel, por ejemplo: (.com), (.org), (.edu), etc, los cuales se verán en la sección de Dominios.
-            li.mb-3 #[span.fa-li #[i.fas.fa-pen-square]] Contratar un número determinado de bases de datos para los contenidos web dinámicos, es decir que tienen interacción con el usuario.
+            li.mb-3 #[span.fa-li #[i.fas.fa-pen-square]] Contratar un número determinado de bases de datos para los contenidos #[i web] dinámicos, es decir que tienen interacción con el usuario.
 
         .col-lg-5.mb-4.mb-lg-0        
           figure
@@ -256,7 +256,7 @@
 
     .hr_blank
 
-    h3 Tipos de hosting   
+    h3 Tipos de #[i hosting]   
 
     p De acuerdo con los requisitos técnicos de cada proyecto en cuanto a necesidades de programación, bases de datos, transferencia mensual o espacio de memoria, el usuario puede necesitar un tipo de alojamiento específico. Por ejemplo: 
 
@@ -288,7 +288,7 @@
               img(src='@/assets/curso/tema3/img_3_15.svg', alt='marketing', style="width:350px;").m-auto                
 
           .col-md-6.mb-4.mb-md-0            
-            p Ofrece un servidor físico completo para el proyecto del cliente, no comparte recursos y tiene acceso a los dispositivos de hardware y las aplicaciones de software, sin ningún tipo de restricción para instalaciones. 
+            p Ofrece un servidor físico completo para el proyecto del cliente, no comparte recursos y tiene acceso a los dispositivos de #[i hardware] y las aplicaciones de #[i software], sin ningún tipo de restricción para instalaciones. 
             p El cliente puede tener el control total de sus aplicaciones y la administración del servidor. 
             
       .py-3.py-md-4(titulo="Hosting en la nube (cloud)")
@@ -298,7 +298,7 @@
               img(src='@/assets/curso/tema3/img_3_15.svg', alt='marketing', style="width:350px;").m-auto                
 
           .col-md-6.mb-4.mb-md-0            
-            p La página web del cliente no está alojada en un solo servidor sino en varios servidores interconectados en la nube, con el objeto de que, si un servidor falla ante la solicitud de un usuario, el otro disponible puede entrar a solventar el problema. 
+            p La página #[i web] del cliente no está alojada en un solo servidor sino en varios servidores interconectados en la nube, con el objeto de que, si un servidor falla ante la solicitud de un usuario, el otro disponible puede entrar a solventar el problema. 
 
     separador
     #t_3_3.titulo-segundo
@@ -310,15 +310,17 @@
           figure
             img(src="@/assets/curso/tema3/img_3_15.png", alt="alt", style="width:350px").m-auto
         .col-lg-7
-          p Los sitios o páginas web se alojan en servidores que tienen una dirección IP (protocolo/internet) la cual identifican los navegadores cuando solicitan la página web. Esta dirección es un conjunto de cuatro grupos de números, por ejemplo:
+          p Los sitios o páginas #[i web] se alojan en servidores que tienen una dirección IP (protocolo/internet) la cual identifican los navegadores cuando solicitan la página #[i web]. Esta dirección es un conjunto de cuatro grupos de números, por ejemplo:
           p #[strong.orange IP: 210.23.87.122]
           p Debido a la dificultad para los usuarios el tener que recordar estos números, las organizaciones que regulan el funcionamiento de los servidores a nivel mundial se unieron para crear la organización ICANN (#[i Internet Corporation for Asigned Names and Numbers]) con el objetivo de establecer un sistema para gestionar los dominios utilizando una combinación alfanumérica (letras, números y símbolos) los cuales identifican un servidor y una página determinada para facilitar la navegación por internet. Dicho sistema se denomina DNS (#[i Domain Name System]) o Sistema de Nombres de Dominio, los cuales son almacenados en Servidores llamados por el mismo nombre: “Servidores de Nombres de Dominio – DNS-”.
+             
 
     .bg-mint.pt-4
       .row.mb-5
+        p.mb-5 A continuación, se dará a conocer cuáles son los tipos de Dominio: 
         h4 Concepto de dominio
         .col-lg-7
-          p El dominio es el nombre con el que un sitio o página web se identifica en la red de internet, el cual es solicitado al DNS mediante un navegador web que permite acceder al contenido requerido por el usuario. 
+          p El dominio es el nombre con el que un sitio o página #[i web] se identifica en la red de internet, el cual es solicitado al DNS mediante un navegador #[i web] que permite acceder al contenido requerido por el usuario. 
             br
             br
             | Los nombres de dominio se componen de dos partes: la etiqueta y la extensión. La etiqueta sirve para determinar el nombre de una entidad, empresa, asociación, persona, etc. y la extensión indica el tipo o categoría de dominio dependiendo de la razón social o actividad a la que se dedica, como se verá a continuación. 
@@ -495,7 +497,7 @@
         .row
           .col-lg-8
             h4 Subdominios
-            p El subdominio también recibe el nombre de anexo de un dominio, puesto que nos conduce a un apartado concreto de un sitio o página web, sin necesidad de indicarle al servidor la ruta completa.
+            p El subdominio también recibe el nombre de anexo de un dominio, puesto que nos conduce a un apartado concreto de un sitio o página #[i web], sin necesidad de indicarle al servidor la ruta completa.
             p Por ejemplo cuando para mi empresa creo un blog al cual quiero que accedan los usuarios directamente.    
             p Ejemplo: #[strong.orange https://www.blog.mite.com.co]
             p Lo anterior conducirá directamente al usuario al blog que se ha creado para la empresa mite.
@@ -509,7 +511,7 @@
                   .anexo__icono
                     img(src="@/assets/template/icono-pdf.svg")
                   .anexo__texto
-                    p #[strong Enlace web.] Dominios, su necesidad y sus implicaciones   
+                    p #[strong Enlace #[i web].] Dominios, su necesidad y sus implicaciones   
 
           .col-lg-4.d-none.d-lg-flex
             figure

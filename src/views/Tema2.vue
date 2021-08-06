@@ -153,7 +153,7 @@
               img(src='@/assets/curso/tema2/T2_07A.svg', alt='', style="width:400px;").m-auto  
 
     #t_2_2.titulo-segundo
-      h2 2.2 Software de diseño multimedia
+      h2 2.2 #[i Software] de diseño multimedia
 
     
     .bloque-texto-a.custom-clr1.p-4.p-md-5.mb-5 
@@ -165,7 +165,7 @@
           figure
             img(src="@/assets/curso/tema2/img_2_2_01.svg", alt="alt").m-auto
 
-    p A continuación, conoceremos cuales son los softwares más utilizados:
+    p A continuación, conoceremos cuales son los #[i softwares] más utilizados:
 
     TabsA.color-secundario.mb-5   
       .tarjeta.color-acento-botones--borde.p-4(titulo="Ilustrator")
@@ -189,7 +189,7 @@
         .row
           .col-lg-6
             h4 Indesign
-            p Se trata de una aplicación/software de diseño para ordenadores (Windows y MacOS) que permite realizar prácticamente todo tipo de proyectos editoriales como libros físicos o electrónicos, revistas, periódicos, flyers y trípticos promocionales.
+            p Se trata de una aplicación/#[i software] de diseño para ordenadores (Windows y MacOS) que permite realizar prácticamente todo tipo de proyectos editoriales como libros físicos o electrónicos, revistas, periódicos, flyers y trípticos promocionales.
           .col-lg-6
             figure
               img(src="@/assets/curso/tema2/img_2_2_04.jpg", alt="alt").m-auto
@@ -197,7 +197,7 @@
         .row
           .col-lg-6
             h4 Lightroom
-            p En la web podrá acceder a las fotografías, así como organizarlas y compartirlas, de forma sencilla. Lightroom en la web también le permite editar fotografías, incluidos el recorte, la realización de ajustes y la aplicación de ajustes preestablecidos.
+            p En la #[i web] podrá acceder a las fotografías, así como organizarlas y compartirlas, de forma sencilla. Lightroom en la #[i web] también le permite editar fotografías, incluidos el recorte, la realización de ajustes y la aplicación de ajustes preestablecidos.
           .col-lg-6
             figure
               img(src="@/assets/curso/tema2/img_2_2_05.jpg", alt="alt").m-auto
@@ -205,8 +205,8 @@
         .row
           .col-lg-6
             h4 Premier Pro
-            p Adobe Premiere Pro es un software de edición de video desarrollado por Adobe y publicado como parte de Adobe Creative Cloud. 
-            p Está orientado a la edición de vídeos profesionales.
+            p Adobe Premiere Pro es un #[i software] de edición de video desarrollado por Adobe y publicado como parte de Adobe Creative Cloud. 
+            p Está orientado a la edición de videos profesionales.
           .col-lg-6
             figure
               img(src="@/assets/curso/tema2/img_2_2_06.jpg", alt="alt").m-auto
@@ -214,7 +214,7 @@
         .row
           .col-lg-6
             h4 After Effects
-            p Adobe After Effects es un software de motion graphics y composición digital publicado por Adobe. 
+            p Adobe After Effects es un #[i software] de motion graphics y composición digital publicado por Adobe. 
             p Se usa principalmente para posproducción de imágenes en movimiento, animar, alterar y componer creaciones en espacios 2D y 3D con varias herramientas nativas y plugins de terceros.
           .col-lg-6
             figure

@@ -17,10 +17,10 @@
               img(src='@/assets/curso/tema7/img_7_01.png', alt='marketing', style="width:450px;")              
 
           .col-md-6.mb-4.mb-md-0
-            h4 Marketing
+            h4 #[i Marketing]
             p La publicidad impresa y en lugares de conveniencia sigue siendo a día de hoy un recurso que las marcas usan ampliamente para promocionarse. Una aplicación habitual de la realidad aumentada consiste en aumentar estos anuncios a través de una aplicación para móvil que se publica a través de los market stores. Por medio de la app se podría acceder a contenidos adicionales como videos o animaciones 3D, descuentos, regalos o similar.
             p Otra posibilidad consiste en aumentar directamente los productos, por ejemplo, en un concesionario, se podría ver de forma superpuesta a cada coche, información adicional que muestre equipamientos opcionales o partes del motor que no se encuentran a la vista.
-            p Los catálogos aumentados son también muy habituales dentro de las aplicaciones para el marketing. Permiten al usuario entender mejor como funciona un producto, como son los pasos para montarlo o como se integra en un conjunto mayor.  
+            p Los catálogos aumentados son también muy habituales dentro de las aplicaciones para el #[i marketing]. Permiten al usuario entender mejor como funciona un producto, como son los pasos para montarlo o como se integra en un conjunto mayor.  
 
       .py-3.py-md-4(titulo="Formación")
         .row.justify-content-center.align-items-center
@@ -67,7 +67,7 @@
             h4 Medicina
             p Uno de los aspectos más potentes de la realidad aumentada es la capacidad de mostrar cosas que no son visibles a simple vista. En el ámbito médico, esta posibilidad tiene multitud de aplicaciones.
             p Por ejemplo, un cirujano podría tener información ampliada del paciente mientras está realizando una intervención, e incluso podría superponer al cuerpo de ese paciente unas guías que le indiquen por donde debe intervenir gracias al uso de imágenes médicas con realidad aumentada (TAC, radiografía o resonancia magnética).
-            p Una ventaja muy interesante de las gafas de realidad aumentad para los entornos quirúrgicos es que se pueden manejar con la voz y los gestos, no es necesario tocar nada. De forma que no se impacta en la imprescindible esterilización de todo lo que hay en un quirófano.
+            p Una ventaja muy interesante de las gafas de realidad aumentada para los entornos quirúrgicos es que se pueden manejar con la voz y los gestos, no es necesario tocar nada. De forma que no se impacta en la imprescindible esterilización de todo lo que hay en un quirófano.
 
     h3 Diferencia entre la realidad aumentada y realidad virtual
     p.mb-5 Dos tecnologías que llevan un nombre similar, y que a los usuarios les cuesta distinguir una de otra. Obviamente tienen similitudes, pero son sobre todo las diferencias entre las dos que hacen que tengan diferentes usos.

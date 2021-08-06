@@ -11,7 +11,7 @@
             img(src="@/assets/template/opcion-multiple.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Cuestionario Sobre Multimedia
+          h2 Cuestionario sobre multimedia
         p.mb-4 El objetivo de la actividad es apropiar los conceptos básicos para el inicio de un proyecto multimedia. 
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            

@@ -11,7 +11,7 @@
     .row.justify-content-center.mb-5
       .col-lg-7
         p Hoy por hoy los empresarios tienden a utilizar servicios multimedia constantemente al dirigirse a un público objetivo, transmitiendo mensajes que integran diversos recursos de texto, voz, imagen, audio y animación para lograr su atención con mayor eficacia. Es por esto que las herramientas multimedia han cobrado importancia en el desarrollo de la economía, puesto que son un medio de apoyo que contribuye a captar los mercados, obteniendo ventajas competitivas en el contexto global.
-        p.mb-0  Morón y Aguilar mencionados por Mena (2018), definen multimedia como: #[span.highlight “aquello que engloba a todo entorno de comunicación capaz de permitir la combinación en un solo sistema de medios como la imagen, tanto estática como en movimiento, sintética o no, tanto analógica como digital, el sonido y el procesamiento de datos. Su principal característica suele ser su interactividad”.] De acuerdo con esto las propuestas multimedia entonces, se han convertido en proyectos multimedia, soportados en las herramientas tecnológicas de hardware y #[i software], para que los empresarios logren interacción con sus clientes captando su atención y fidelidad para añadir valor a sus organizaciones.
+        p.mb-0  Morón y Aguilar mencionados por Mena (2018), definen multimedia como: #[span.highlight “aquello que engloba a todo entorno de comunicación capaz de permitir la combinación en un solo sistema de medios como la imagen, tanto estática como en movimiento, sintética o no, tanto analógica como digital, el sonido y el procesamiento de datos. Su principal característica suele ser su interactividad”.] De acuerdo con esto las propuestas multimedia entonces, se han convertido en proyectos multimedia, soportados en las herramientas tecnológicas de #[i hardware] y #[i software], para que los empresarios logren interacción con sus clientes captando su atención y fidelidad para añadir valor a sus organizaciones.
       .col-lg-5
         figure
           img(src="@/assets/curso/tema1/img_1_01.png", alt="alt", style="width:550px;").m-auto
@@ -23,7 +23,7 @@
     p.mb-4 Por ello, se conocerán a continuación los elementos que conforman la multimedia: 
 
     .cajon.cajon-naranja.p-4.mb-5
-      p.mb-0 La creación de multimedia requiere un estudio de todos los lenguajes de comunicación, en los que se incluyen el visual, el textual, el sonoro, etc., para llegar así a un producto de calidad, lo cual permitirá al aprendiz aplicar un conocimiento y una conceptualización de todos los lenguajes, orientado a los entornos digitales, web e interactivos.   
+      p.mb-0 La creación de multimedia requiere un estudio de todos los lenguajes de comunicación, en los que se incluyen el visual, el textual, el sonoro, etc., para llegar así a un producto de calidad, lo cual permitirá al aprendiz aplicar un conocimiento y una conceptualización de todos los lenguajes, orientado a los entornos digitales, #[i web] e interactivos.   
 
     #menu1.row.g-0.justify-content-center.mb-5
       .col-auto.mb-4
@@ -157,7 +157,7 @@
               figure.mb-3
                 img(src="@/assets/curso/tema1/img_1_1_04F.svg", alt="alt", style="width:250px;").m-auto
               h5.text-center.mb-4 Animación por computadora
-              p.mb-0 La animación también llamada animación digital, es la técnica que consiste en crear imágenes en movimiento mediante el uso de ordenadores o computadoras. Cada vez los gráficos creados en 3D son más, aunque los gráficos en 2D sigue siendo una herramienta que siempre                      
+              p.mb-0 La animación también llamada animación digital, es la técnica que consiste en crear imágenes en movimiento mediante el uso de ordenadores o computadoras. Cada vez los gráficos creados en 3D son más, aunque los gráficos en 2D sigue siendo una herramienta que siempre.                      
 
     .hr-dashed
 
@@ -239,7 +239,7 @@
 
           div(titulo="Educación")
             p Probablemente el ámbito donde el uso multimedia puede aportar más innovación y beneficio, momento donde la virtualidad está atravesando un cambio y generando un proceso de comunicación cada vez más habitual.  
-            p.mb-0 La enorme cantidad de posibilidades formativas son difíciles de sintetizas, sin embargo podemos encontrar ejemplos en la facilidad del aprendizaje y la pronunciación, tanto en las lenguas maternas, como en las extranjeras, en materias como matemáticas, física, química y etc., donde los procesos se hacen más interactivos. 
+            p.mb-0 La enorme cantidad de posibilidades formativas son difíciles de sintetizar, sin embargo podemos encontrar ejemplos en la facilidad del aprendizaje y la pronunciación, tanto en las lenguas maternas, como en las extranjeras, en materias como matemáticas, física, química y etc., donde los procesos se hacen más interactivos. 
 
           div(titulo="Ámbito doméstico")
             p La electrónica de consumo está influyendo con un modelo que no sólo a través del ordenador doméstico el usuario puede disfrutar de materiales de referencia, juegos y comunicaciones, sino que también mediante otros dispositivos y diferentes reproductores se están introduciendo a esta tecnología. 
@@ -317,7 +317,7 @@
         .dual-txt-deco
           h4(style="position: relative; z-index: 1;") Producción multimedia
           p La producción de todo este contenido es un campo con trabajo que entrelaza diferentes áreas del conocimiento y tecnologías que dimensionan proyectos que deben estar encaminados para que no se pierdan en el laberinto de contenido que existe en el mercado y se considere un producto competitivo.
-          p La creación y producción de contenido, dependerá del tipo de producto, así variarán las fases, responsabilidades, dominios y acciones que se tomarán, todas estas medidas y terminologías tienden a generar confusión, ya que algunas se ocupan de la parte de “producción”, donde está todo lo relacionado con el producto, producción, marketing, toda la parte presupuestal, etc.
+          p La creación y producción de contenido, dependerá del tipo de producto, así variarán las fases, responsabilidades, dominios y acciones que se tomarán, todas estas medidas y terminologías tienden a generar confusión, ya que algunas se ocupan de la parte de “producción”, donde está todo lo relacionado con el producto, producción, #[i marketing], toda la parte presupuestal, etc.
           p Mientras que por otro lado, se puede encontrar como “producción” al desarrollo propiamente del producto en específico, lo importante es tener claro los conceptos y la claridad del contenido; algunas de las fases más habituales que se pueden encontrar son:
       .col-auto.mb-4.mb-lg-0
         figure
@@ -380,7 +380,7 @@
 
       .col-lg
         h5 #[span.square 4] Desarrollo e implementación
-        p Como ocurre en los procesos anteriores, la etapa de implementación y desarrollo vendrá ligada al proceso de diseño y se llevará a cabo con el producto finalizado, en esta etapa se hace acompañamiento adicional al producto, sea con fines de marketing o complementar contenido en línea, etc.
+        p Como ocurre en los procesos anteriores, la etapa de implementación y desarrollo vendrá ligada al proceso de diseño y se llevará a cabo con el producto finalizado, en esta etapa se hace acompañamiento adicional al producto, sea con fines de #[i marketing] o complementar contenido en línea, etc.
         p.mb-4 La fase de desarrollo comprende las siguientes actividades:
 
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
@@ -404,11 +404,11 @@
         h5 #[span.square 5] Implementación de los elementos multimedia
         p Esta etapa de implementación del programa, podemos desprender algunas actividades :
         LineaTiempoD.color-secundario
-          p.text-small(numero="a" titulo="Prueba piloto") La finalidad de esta evaluación es depurar inicialmente la primera versión del proyecto multimedia, permite efectuar modificaciones o correcciones, con el propósito de cumplir con las especificaciones descritas en los diseños. Esta tarea se realiza de manera cíclica hasta que ya no se encuentren errores durante la evaluación del prototipo.
+          p(numero="a" titulo="Prueba piloto") La finalidad de esta evaluación es depurar inicialmente la primera versión del proyecto multimedia, permite efectuar modificaciones o correcciones, con el propósito de cumplir con las especificaciones descritas en los diseños. Esta tarea se realiza de manera cíclica hasta que ya no se encuentren errores durante la evaluación del prototipo.
 
-          p.text-small(numero="b" titulo="Evaluación de contenido") Se revisa la sintaxis, la ortografía y los contenidos en general del sistema multimedia, con el objetivo de generar un proyecto multimedia de calidad.
+          p(numero="b" titulo="Evaluación de contenido") Se revisa la sintaxis, la ortografía y los contenidos en general del sistema multimedia, con el objetivo de generar un proyecto multimedia de calidad.
 
-          p.text-small(numero="c" titulo="Evaluación del entorno general") Se requiere verificar si el entorno pedagógico y técnico/estético cumple con los estándares de calidad propuestos por expertos en desarrollo de #[i software], y saber si para el usuario resulta fácil de utilizar, además de cumplir con los objetivos propuestos. 
+          p(numero="c" titulo="Evaluación del entorno general") Se requiere verificar si el entorno pedagógico y técnico/estético cumple con los estándares de calidad propuestos por expertos en desarrollo de #[i software], y saber si para el usuario resulta fácil de utilizar, además de cumplir con los objetivos propuestos. 
 
     .hr_blank
 
@@ -491,10 +491,10 @@
     .row.mb-5
       .col-lg-7.mb-5
         .dual-txt-deco
-          p Una app o aplicación es un programa de #[i software] que está diseñado para realizar una función específica determinada para el usuario, es un programa generalmente concreto que se usa directamente en los dispositivos móviles. 
-          p El término app se refería a cualquier aplicación móvil o de escritorio, pero a medida que el mercado crecía ilimitadamente surgen más tiendas para vender aplicaciones móviles a usuarios de teléfonos inteligentes y tabletas, el término ha evolucionado notablemente para referirse específicamente a estos pequeños programas que pueden descargarse e instalarse en su dispositivo móvil sin tener ningún tipo de restricción.
-          p Existen miles de apps diseñadas para ejecutarse en los teléfonos inteligentes y tabletas disponibles en el mercado actualmente. Algunas de estas aplicaciones se pueden descargar de forma gratuita, mientras que otras deben comprarse en una tienda de aplicaciones (App Store, Google Play, Microsoft Store, Amazon, Opera Mobile Store, entre otras).
-          p A diferencia de las aplicaciones diseñadas para computadoras de escritorio, las aplicaciones móviles se alejan de los sistemas de #[i software] integrados, por el contrario, cada aplicación móvil proporciona una funcionalidad aislada y limitada, en este caso, puede ser un juego, una aplicación de comida, transporte entre otros o un navegador web móvil.
+          p Una #[i app] o aplicación es un programa de #[i software] que está diseñado para realizar una función específica determinada para el usuario, es un programa generalmente concreto que se usa directamente en los dispositivos móviles. 
+          p El término #[i app] se refería a cualquier aplicación móvil o de escritorio, pero a medida que el mercado crecía ilimitadamente surgen más tiendas para vender aplicaciones móviles a usuarios de teléfonos inteligentes y tabletas, el término ha evolucionado notablemente para referirse específicamente a estos pequeños programas que pueden descargarse e instalarse en su dispositivo móvil sin tener ningún tipo de restricción.
+          p Existen miles de #[i apps] diseñadas para ejecutarse en los teléfonos inteligentes y tabletas disponibles en el mercado actualmente. Algunas de estas aplicaciones se pueden descargar de forma gratuita, mientras que otras deben comprarse en una tienda de aplicaciones (App Store, Google Play, Microsoft Store, Amazon, Opera Mobile Store, entre otras).
+          p A diferencia de las aplicaciones diseñadas para computadoras de escritorio, las aplicaciones móviles se alejan de los sistemas de #[i software] integrados, por el contrario, cada aplicación móvil proporciona una funcionalidad aislada y limitada, en este caso, puede ser un juego, una aplicación de comida, transporte entre otros o un navegador #[i web] móvil.
           p Pasemos a conocer los conceptos y las aplicaciones móviles más comunes:
 
       .col-lg-5
@@ -507,7 +507,7 @@
           figure
             img(src="@/assets/curso/tema1/img_1_4_02.png", alt="alt", style="width:500px;").m-auto
         .col-lg-7.order-1.order-lg-2.mb-5.mb-lg-0
-          p ‌Cada día es mayor el mercado que surge entorno a las aplicaciones móviles y la solicitud por parte de los clientes de un desarrollo óptimo, las opciones de elección se determinan por saber si se desea adquirir una aplicación exclusiva en #[strong.orange Android] o #[strong.orange iOS] que contengan funciones específicas de esos sistemas operativos optimizando su hardware o si queremos aplicaciones híbridas o web, que puedan permitir un desarrollo para ambos sistemas operativos e incluso adaptada como aplicación web que permita la visualización desde un navegador.
+          p ‌Cada día es mayor el mercado que surge entorno a las aplicaciones móviles y la solicitud por parte de los clientes de un desarrollo óptimo, las opciones de elección se determinan por saber si se desea adquirir una aplicación exclusiva en #[strong.orange Android] o #[strong.orange iOS] que contengan funciones específicas de esos sistemas operativos optimizando su #[i hardware] o si queremos aplicaciones híbridas o #[i web], que puedan permitir un desarrollo para ambos sistemas operativos e incluso adaptada como aplicación #[i web] que permita la visualización desde un navegador.
           p #[strong.orange Android:] es un sistema operativo para dispositivos móviles, caracterizado por su código abierto basado en Linux y, además, impulsado por Google.
           p #[strong.orange iOS:] es el sistema operativo para los dispositivos móviles de Apple, por lo que está presente en iPhone, iPod Touch y iPad. 
           p Su característica principal, es su código cerrado y únicamente disponible para los equipos ya nombrados anteriormente.
@@ -520,15 +520,15 @@
           figure.mb-5
             img(src="@/assets/curso/tema1/img_1_4_03.svg", alt="alt", style="width:140px;" ).m-auto
           .h5.text-center.mb-4 Desarrollo Nativo para Android
-          p #[strong Kotlin] es el lenguaje de desarrollo para aplicaciones móviles (el cual puede utilizar frameworks) diseñado para prevenir errores de programación comunes en aplicaciones Android, está debidamente tipado es decir que (no permite violaciones de los tipos de datos) y que permitirá interpretar con código basado en Java, de forma que no limita exclusivamente a este tipo de lenguaje, C++: Lenguaje multiparadigma, con el objetivo de expandir el lenguaje C.
+          p #[strong Kotlin] es el lenguaje de desarrollo para aplicaciones móviles (el cual puede utilizar #[i frameworks]) diseñado para prevenir errores de programación comunes en aplicaciones Android, está debidamente tipado es decir que (no permite violaciones de los tipos de datos) y que permitirá interpretar con código basado en Java, de forma que no limita exclusivamente a este tipo de lenguaje, C++: Lenguaje multiparadigma, con el objetivo de expandir el lenguaje C.
           p #[i #[strong Frameworks]] es una estructura previa que se puede aprovechar para desarrollar un proyecto, el Framework es una especie de plantilla, un esquema conceptual, que simplifica la elaboración de una tarea.
       .col-lg-6
         .tarjeta.tarjeta-cyan
           figure.mb-5
             img(src="@/assets/curso/tema1/img_1_4_04.svg", alt="alt", style="width:140px;" ).m-auto
           .h5.text-center.mb-4 Desarrollo Nativo (iOS)
-          p #[i #[strong Swift iOS]] es el lenguaje elegido por Apple (iOS, Mac Apple TV y Apple Watch) para el desarrollo de sus aplicaciones presentando un fuerte tipado, el cual (no permite violaciones de los tipos de datos) y permitirá tener menos errores durante su desarrollo, permite facilitar el uso de patrones de programación funcional y también gestionará de forma automática la memoria, el cual compila apps de Apple y solo puede ser ejecutado por una Mac.
-          p #[i #[strong ift iOS]] es el lenguaje más popular de Apple, diseñado para intentar sustituir los lenguajes C, C++ Objetive-C. Permite crear apps para iPhone, iPad, Apple Watch, Mac y Apple TV.
+          p #[i #[strong Swift iOS]] es el lenguaje elegido por Apple (iOS, Mac Apple TV y Apple Watch) para el desarrollo de sus aplicaciones presentando un fuerte tipado, el cual (no permite violaciones de los tipos de datos) y permitirá tener menos errores durante su desarrollo, permite facilitar el uso de patrones de programación funcional y también gestionará de forma automática la memoria, el cual compila #[i apps] de Apple y solo puede ser ejecutado por una Mac.
+          p #[i #[strong ift iOS]] es el lenguaje más popular de Apple, diseñado para intentar sustituir los lenguajes C, C++ Objetive-C. Permite crear #[i apps] para iPhone, iPad, Apple Watch, Mac y Apple TV.
 
     .row.justify-content-center.mb-5
       .col-lg-5
@@ -541,15 +541,15 @@
           p Por lo general, este tipo de aplicaciones se asocian a los dispositivos móviles siendo los más importantes iOS y Android.
           p Una característica fundamental de las aplicaciones nativas es que se adaptan por completo al dispositivo para el cual fueron desarrolladas, tienen acceso a todas las funcionalidades de este, como la cámara, el GPS y el micrófono entre otros, de igual forma pueden recolectar una mayor cantidad de datos de sus usuarios y usarlos a su favor, las aplicaciones nativas se actualizan frecuentemente.
           .cajon.cajon-naranja.p-4.mb-0
-            p.mb-0 Como ejemplo de aplicación nativa podemos mencionar a Instagram o WhatsApp, a través de la cual, se pueden enviar mensajes de voz, tomar fotos, Uber, Beat, Cabify, que se valen de la geolocalización para conectar usuarios y conductores, las apps nativas pueden hacer uso de las notificaciones del sistema operativo para mostrar avisos importantes al usuario, aun cuando no se esté usando la aplicación.
+            p.mb-0 Como ejemplo de aplicación nativa podemos mencionar a Instagram o WhatsApp, a través de la cual, se pueden enviar mensajes de voz, tomar fotos, Uber, Beat, Cabify, que se valen de la geolocalización para conectar usuarios y conductores, las #[i apps] nativas pueden hacer uso de las notificaciones del sistema operativo para mostrar avisos importantes al usuario, aun cuando no se esté usando la aplicación.
        
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-7.order-2.order-lg-1      
         h5(style="position:relative; z-index:1") Aplicaciones Híbridas        
-        p Las aplicaciones híbridas se conocen más popularmente como aplicaciones web, son aplicaciones de una sola página, dichas aplicaciones fusionan el mundo móvil y web y, por lo tanto, ayudan a los usuarios a obtener una experiencia única al acceder a ellas.
-        p Son aplicaciones móviles diseñadas en un lenguaje de programación web ya sea HTML5, CSS o JavaScript, junto con un framework que permite adaptar la vista web a cualquier vista de un dispositivo móvil, son desarrolladas para ser utilizadas en los sistemas operativos iOS, Android. 
+        p Las aplicaciones híbridas se conocen más popularmente como aplicaciones #[i web], son aplicaciones de una sola página, dichas aplicaciones fusionan el mundo móvil y #[i web] y, por lo tanto, ayudan a los usuarios a obtener una experiencia única al acceder a ellas.
+        p Son aplicaciones móviles diseñadas en un lenguaje de programación #[i web] ya sea HTML5, CSS o JavaScript, junto con un framework que permite adaptar la vista #[i web] a cualquier vista de un dispositivo móvil, son desarrolladas para ser utilizadas en los sistemas operativos iOS, Android. 
         .cajon.cajon-azul.p-4.mb-4
-          p.mb-0 La principal ventaja de las aplicaciones híbridas o web, además de la posibilidad de usar recursos hardware directamente, que son independientes del sistema operativo (iOS y Android), de igual forma no necesita de la actualización constante de versiones esto depende de cada sistema operativo, a diferencia de una aplicación nativa es que la experiencia de usuario no es la mejor de ya que  en estas aplicaciones presentan un rendimiento y una la velocidad de carga lenta a comparación de una aplicación nativa, el rendimiento de una aplicación híbrida comparada con una nativa es mucho menor, debido a que estas últimas aprovechan de forma más óptima los recursos de hardware del dispositivo.
+          p.mb-0 La principal ventaja de las aplicaciones híbridas o #[i web], además de la posibilidad de usar recursos #[i hardware] directamente, que son independientes del sistema operativo (iOS y Android), de igual forma no necesita de la actualización constante de versiones esto depende de cada sistema operativo, a diferencia de una aplicación nativa es que la experiencia de usuario no es la mejor de ya que  en estas aplicaciones presentan un rendimiento y una la velocidad de carga lenta a comparación de una aplicación nativa, el rendimiento de una aplicación híbrida comparada con una nativa es mucho menor, debido a que estas últimas aprovechan de forma más óptima los recursos de #[i hardware] del dispositivo.
         p.mb-0 Sin embargo, a pesar de que el desarrollo de aplicaciones híbridas y nativas requiere de una construcción totalmente distinta, la forma de utilizarlas es igual.
       .col-lg-5.order-1.order-lg-2
         figure
@@ -563,7 +563,7 @@
     .row.justify-content-center
       .col-lg-10
         .titulo-sexto.color-acento-contenido
-          h5 Aplicaciones Nativas V.S Aplicaciones Hibridas o Web
+          h5 Aplicaciones Nativas V.S Aplicaciones Hibridas o #[i web]
         .tabla-a.color-acento-contenido.mb-5
           table
             caption Nota. Cadenas (2019).
@@ -579,7 +579,7 @@
                 td Coste elevado debido a la programaci&oacute;n por tipo&nbsp;&nbsp;&nbsp;de dispositivo con lenguajes m&aacute;s complejos.
               tr
                 td Rendimiento.
-                td Bastante bueno, excepto en aplicaciones que exigen&nbsp;&nbsp;&nbsp;de mucho hardware, como juegos.
+                td Bastante bueno, excepto en aplicaciones que exigen&nbsp;&nbsp;&nbsp;de mucho #[i hardware], como juegos.
                 td &Oacute;ptimo.
               tr
                 td Acceso a caracter&iacute;sticas del dispositivo.
@@ -594,7 +594,7 @@
                 td R&aacute;pida.
                 td Muy r&aacute;pida.
               tr
-                td App Store.
+                td #[i app] Store.
                 td Disponible (con limitaciones).
                 td Disponible.
               tr
@@ -616,22 +616,22 @@
         figure
           img(src="@/assets/curso/tema1/img_1_5_01.svg", alt="alt", style="width:500px").m-auto
       .col-lg-7
-        p Las aplicaciones móviles son diversas y se encuentran en muchas formas y contenidos, en este recurso se referencian algunas de las apps más populares, dentro de las tendencias para móviles más descargadas por los usuarios:
+        p Las aplicaciones móviles son diversas y se encuentran en muchas formas y contenidos, en este recurso se referencian algunas de las #[i apps] más populares, dentro de las tendencias para móviles más descargadas por los usuarios:
         .row
           .col-auto
             a.anexo.mb-4(:href="obtenerLink('/downloads/tipos_aplicaciones_moviles.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
-                p Anexo. Tipos de aplicaciones web
+                p Anexo. Tipos de aplicaciones #[i web]
 
     separador
 
     #t_1_6.titulo-segundo
       h2 1.6 Tipos de aplicaciones móviles 
 
-    p Las tiendas de aplicaciones o app store son aplicaciones que le permiten al usuario buscar, comprar, descargar e instalar programas en computadores y dispositivos móviles; en el caso de estos últimos las aplicaciones suelen ser llamadas simplemente apps.
-    p Google Play o Play Store y App Store son algunas de las tiendas de aplicaciones de #[i software] gratuito o comercial aprobados para ser usados en el dispositivo.
+    p Las tiendas de aplicaciones o #[i app] store son aplicaciones que le permiten al usuario buscar, comprar, descargar e instalar programas en computadores y dispositivos móviles; en el caso de estos últimos las aplicaciones suelen ser llamadas simplemente #[i apps].
+    p #[i Google Play] o #[i Play Store] y #[i App Store] son algunas de las tiendas de aplicaciones de #[i software] gratuito o comercial aprobados para ser usados en el dispositivo.
     p Conozcamos qué son ambas:
 
     .row.justify-content-center
@@ -641,13 +641,14 @@
             img(src="@/assets/curso/tema1/img_1_6_01.svg", alt="alt", style="width:140px;" ).m-auto
           .h5.text-center.mb-4 Google Play
           p Antes se le conocía como Android Market, ahora Google Play es la plataforma de distribución de #[i software] o aplicaciones  para dispositivos con el sistema operativo Android.
-          p #[strong Google Play o Play Store], como también se conoce, es la tienda de aplicaciones creada por Google donde se puede encontrar juegos, películas, música, libros y más. Está disponible para cualquier dispositivo móvil que cuente con sistema operativo Android. También, se puede ingresar desde cualquier computador escribiendo en la barra de direcciones del  navegador https://play.google.com/.
+          p #[strong Google Play o Play Store], como también se conoce, es la tienda de aplicaciones creada por Google donde se puede encontrar juegos, películas, música, libros y más. Está disponible para cualquier dispositivo móvil que cuente con sistema operativo Android. También, se puede ingresar desde cualquier computador escribiendo en la barra de direcciones del  navegador #[a(href="https://play.google.com/", title="title", target="_blank") https://play.google.com/].
+          
           
       .col-lg-6
         .tarjeta.tarjeta-cyan
           figure.mb-5
             img(src="@/assets/curso/tema1/img_1_6_02.svg", alt="alt", style="width:140px;" ).m-auto
-          .h5.text-center.mb-4 App Store
+          .h5.text-center.mb-4 #[i App Store]
           p Fue el primero en distribuir las aplicaciones y es la plataforma de los dispositivos de la marca Apple. Si se tiene un computador Mac OS X, un #[strong iPhone] o un #[strong iPad], es allí donde se puede hacer la descarga de aplicaciones.
           p #[strong Sistema operativo:] iOS, MacOS, iPadOS, TVOS
           p #[strong Género:] tienda de #[i software]
@@ -664,7 +665,7 @@
     .row.mb-5
       .col-lg-7.order-2.order-lg-1
         .singleTop-txt-deco
-          p En la actualidad es mayor el mercado que ha surgido en torno a las aplicaciones móviles y el interés por parte de los clientes de obtener un desarrollo óptimo. Cada opción tecnológica surge según las necesidades frente a las aplicaciones, es decir, se debe conocer si queremos una aplicación exclusiva en Android o iOS y las funciones específicas que presenta cada uno de los dos sistemas operativos, también conocer el tipo de hardware o si se desean aplicaciones híbridas que puedan permitir un desarrollo para ambos sistemas operativos o aplicaciones adaptadas que permitan la visualización desde un navegador.
+          p En la actualidad es mayor el mercado que ha surgido en torno a las aplicaciones móviles y el interés por parte de los clientes de obtener un desarrollo óptimo. Cada opción tecnológica surge según las necesidades frente a las aplicaciones, es decir, se debe conocer si queremos una aplicación exclusiva en Android o iOS y las funciones específicas que presenta cada uno de los dos sistemas operativos, también conocer el tipo de #[i hardware] o si se desean aplicaciones híbridas que puedan permitir un desarrollo para ambos sistemas operativos o aplicaciones adaptadas que permitan la visualización desde un navegador.
           p A continuación, se podrán visualizar las diferentes tecnologías para crear aplicaciones móviles:
       .col-lg-5.order-1.order-lg-2
         figure
@@ -682,14 +683,14 @@
           figure.mb-5
             img(src="@/assets/curso/tema1/img_1_7_03.svg", alt="alt", style="width:90px;" ).m-auto
           h4.text-center.mb-4 Ionic 4
-          p Es un framework con el que se pueden desarrollar aplicaciones con tecnologías web, utiliza estándares como HTML, CSS y JavaScript y prepara el mismo código de una app para hacerlo funcionar en plataformas como iOS o Android. 
+          p Es un framework con el que se pueden desarrollar aplicaciones con tecnologías #[i web], utiliza estándares como HTML, CSS y JavaScript y prepara el mismo código de una #[i app] para hacerlo funcionar en plataformas como iOS o Android. 
       .col-lg-5.mb-4
         .tarjeta.tarjeta-cyan
           figure.mb-5
             img(src="@/assets/curso/tema1/img_1_7_04.svg", alt="alt", style="width:90px;" ).m-auto
           h4.text-center.mb-4 Flutter
           p Es un framework de código abierto desarrollado por Google para crear aplicaciones nativas de forma fácil, rápida y sencilla. Su principal ventaja radica en que genera código 100% nativo para cada plataforma, con lo que el rendimiento y la UX es totalmente idéntico a las aplicaciones nativas tradicionales
-          p En el mercado de desarrollo de aplicaciones móviles para iOS y Android hay una gran cantidad de frameworks o herramientas que permiten utilizar un mismo código fuente para ambas plataformas. Pero ninguna genera código 100% nativo.
+          p En el mercado de desarrollo de aplicaciones móviles para iOS y Android hay una gran cantidad de #[i frameworks] o herramientas que permiten utilizar un mismo código fuente para ambas plataformas. Pero ninguna genera código 100% nativo.
           p La principal y más importante ventaja de Flutter es que se desarrolla un   solo proyecto para todos los sistemas operativos, lo que significa una reducción de costes y tiempo de producción.
       .col-lg-5.mb-4
         .tarjeta.tarjeta-cyan
@@ -697,7 +698,7 @@
             img(src="@/assets/curso/tema1/img_1_7_05.svg", alt="alt", style="width:90px;" ).m-auto
           h4.text-center.mb-4 React Native
           p Es un framework JavaScript para crear aplicaciones reales nativas para iOS y Android, basado en la librearía de JavaScript React para la creación de componentes visuales, cambiando el propósito de los mismos para, en lugar de ser ejecutados en navegador, correr directamente sobre las plataformas móviles nativas, en este caso iOS y Android. 
-          p Es decir, en lugar de desarrollar una aplicación web híbrida o en HTML5, lo que se obtiene al final como resultado es una aplicación real nativa, indistinguible de la que se podría desarrollar con un código en Objective-C o Java.
+          p Es decir, en lugar de desarrollar una aplicación #[i web] híbrida o en HTML5, lo que se obtiene al final como resultado es una aplicación real nativa, indistinguible de la que se podría desarrollar con un código en Objective-C o Java.
 
 
     
