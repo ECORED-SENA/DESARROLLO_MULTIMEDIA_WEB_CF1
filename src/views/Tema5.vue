@@ -107,7 +107,7 @@
           p Transmiten  un contenido informativo a un grupo objetivo y no les permite interactuar con este.
           p Presentan  texto, archivos multimedia, imágenes, videos y audio. Algunos ejemplos son: 
           ul.fa-ul.lista-uL
-            li.mb-2 #[span.fa-li #[i.fas.fa-angle-right]] Catálogos online (presentación de productos).
+            li.mb-2 #[span.fa-li #[i.fas.fa-angle-right]] Catálogos #[i online] (presentación de productos).
 
             li.mb-2 #[span.fa-li #[i.fas.fa-angle-right]] Páginas #[i web] Corporativas (información de una organización).
 
@@ -121,7 +121,7 @@
           p Facilitan el conocer de  la información a través de  la interacción con su contenido.
           p Algunas #[i web] dinámicas son: 
           ul.fa-ul.lista-uL
-            li.mb-2 #[span.fa-li #[i.fas.fa-angle-right]] Tiendas online (comercializa producto y habilita plataforma de pagos).
+            li.mb-2 #[span.fa-li #[i.fas.fa-angle-right]] Tiendas #[i online] (comercializa producto y habilita plataforma de pagos).
             li.mb-2 #[span.fa-li #[i.fas.fa-angle-right]] #[i Blog] con contenido informativo ( presenta tema de  interés para una comunidad, puede realizarse comentarios).
 
             li.mb-2 #[span.fa-li #[i.fas.fa-angle-right]] Sitios #[i web] educativos (enseñan un tema y facilita la interacción con los educandos).
@@ -146,7 +146,7 @@
     #t_5_3.titulo-segundo
       h2 5.3 Lenguajes #[i web]
 
-    p Un lenguaje de programación #[i web] es un código que es interpretado por un servidor dispuesto a crear sitios web dinámicos.
+    p Un lenguaje de programación #[i web] es un código que es interpretado por un servidor dispuesto a crear sitios <i>web</i> dinámicos.
     p A continuación se pueden conocer los lenguajes de programación más usuales:
 
 
@@ -163,7 +163,7 @@
           img(src='@/assets/curso/tema5/css.svg', alt='Imagen relacionada', style="width:350px;").m-auto
         .col-md-8.mb-4.mb-md-0
           h3 Lenguaje CSS 
-          p La sigla CSS corresponde a #[i Cascading Style Sheet] y significa hoja de estilo en cascada, que como tal no es un lenguaje de programación , sino un lenguaje descriptivo que está compuesto por reglas  que son interpretadas por el navegador para presentar un documento escrito en HTML, cuyo resultado final es establecer la apariencia de la página #[i web] que vemos en nuestra pantalla del PC. A través del CSS se puede determinar el diseño, color y fuente, entre otras características de la página #[i web].             
+          p La sigla CSS corresponde a #[i Cascading Style Sheet] y significa hoja de estilo en cascada, que como tal no es un lenguaje de programación, sino un lenguaje descriptivo que está compuesto por reglas  que son interpretadas por el navegador para presentar un documento escrito en HTML, cuyo resultado final es establecer la apariencia de la página #[i web] que vemos en nuestra pantalla del PC. A través del CSS se puede determinar el diseño, color y fuente, entre otras características de la página #[i web].             
       .row.justify-content-center.align-items-center         
         .col-md-8.mb-4.mb-md-0
           h3 Lenguaje JavaScript 
@@ -229,16 +229,16 @@
               p Provee servicio gratuito para el diseño de un sitio web y se puede acceder en la URL #[a(href="https://es.wix.com/", title="title", target="_blank") https://es.wix.com/]. Este proveedor presenta diferentes tipos de plantilla según el objetivo que se desea lograr con el sitio web. Si se selecciona un plan pago se pueden agregar funciones de interactividad, adaptar a dispositivos móviles e incluirse en los motores de búsqueda más populares.
           div(titulo="Jimdo")
             .col-12
-              p Es otro sitio web que al igual de los anteriores, provee servicio gratuito para el diseño de un sitio web, para ello a través de la dirección electrónica o URL #[a(href="https://www.jimdo.com/es/", title="title", target="_blank") https://www.jimdo.com/es/] se puede explorar el procedimiento. Este servidor, ofrece planes de dominio y #[i hosting], permitiendo a los usuarios realizar un portafolio completo y no contactar otros proveedores.
+              p Es otro sitio <i>web</i> que al igual de los anteriores, provee servicio gratuito para el diseño de un sitio web, para ello a través de la dirección electrónica o URL #[a(href="https://www.jimdo.com/es/", title="title", target="_blank") https://www.jimdo.com/es/] se puede explorar el procedimiento. Este servidor, ofrece planes de dominio y #[i hosting], permitiendo a los usuarios realizar un portafolio completo y no contactar otros proveedores.
       .col-lg-5
         img(src='@/assets/curso/tema5/img_5_4_01.jpg', alt='Imagen relacionada', style="width:500px;").m-auto
 
     separador
 
     #t_5_5.titulo-segundo
-      h2 5.5 Finalidad para crear un sitio web
+      h2 5.5 Finalidad para crear un sitio #[i web]
     
-    p Al momento de realizar un sitio web, es importante tener claro el punto de partida de la creación de este; es decir, los objetivos para el cual se hará uso de este canal digital. Son muchas las ideas que se pueden presentar, pero es necesario considerar, desde una página #[i web] personal a sitios de negocios online. 
+    p Al momento de realizar un sitio #[i web], es importante tener claro el punto de partida de la creación de este; es decir, los objetivos para el cual se hará uso de este canal digital. Son muchas las ideas que se pueden presentar, pero es necesario considerar, desde una página #[i web] personal a sitios de negocios #[i online]. 
     p.mb-5 Las páginas #[i web] tienen unas intenciones o propósitos para su diseño, a continuación, conoceremos cuales son:
 
     .tarjeta.tarjeta-celeste.mb-5
@@ -246,7 +246,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h5 Comercio electrónico 
-            p Las tiendas online son uno de los estilos de sitios más visitados.  Cualquier persona tiene la oportunidad de dar inicio a un negocio online en paralelo a su trabajo principal.  En este se pueden vender desde productos digitales, como físicos a grandes audiencias de todo el mundo (lo que no sería tan simple con una tienda física). Algunos sitios #[i web] de ejemplo son:  Mercado Libre - Amazon- Alibaba- Ebay, entre otros.       
+            p Las tiendas #[i online] son uno de los estilos de sitios más visitados.  Cualquier persona tiene la oportunidad de dar inicio a un negocio #[i online] en paralelo a su trabajo principal.  En este se pueden vender desde productos digitales, como físicos a grandes audiencias de todo el mundo (lo que no sería tan simple con una tienda física). Algunos sitios #[i web] de ejemplo son:  Mercado Libre - Amazon- Alibaba- Ebay, entre otros.       
           .col-md-6
             figure
               img(src='@/assets/curso/tema5/slide_5_5_01.jpg', alt='Texto que describa la imagen')              
@@ -275,15 +275,15 @@
               img(src='@/assets/curso/tema5/slide_5_5_04.jpg', alt='Texto que describa la imagen')
         .row
           .col-md-6.mb-4.mb-md-0
-            h5 Comunidades online
-            p Sitios donde grandes audiencias crean un compartir de información  a través de estos espacios, logrando una gran cantidad de participantes de manera online con diferentes propósitos y entre ellos la retroalimentación de temas variados.    
+            h5 Comunidades #[i online]
+            p Sitios donde grandes audiencias crean un compartir de información  a través de estos espacios, logrando una gran cantidad de participantes de manera #[i online] con diferentes propósitos y entre ellos la retroalimentación de temas variados.    
           .col-md-6
             figure
               img(src='@/assets/curso/tema5/slide_5_5_05.jpg', alt='Texto que describa la imagen')
         .row
           .col-md-6.mb-4.mb-md-0
             h5 Portafolios
-            p Es una página #[i web] profesional que facilita el presentar habilidades y fortalezas. Esto puede mejorar enormemente tu presencia y visibilidad en línea. Además, los portafolios online pueden darte la ventaja en entrevistas de trabajo, concursos y negocios.    
+            p Es una página #[i web] profesional que facilita el presentar habilidades y fortalezas. Esto puede mejorar enormemente tu presencia y visibilidad en línea. Además, los portafolios #[i online] pueden darte la ventaja en entrevistas de trabajo, concursos y negocios.    
           .col-md-6
             figure
               img(src='@/assets/curso/tema5/slide_5_5_06.jpg', alt='Texto que describa la imagen')

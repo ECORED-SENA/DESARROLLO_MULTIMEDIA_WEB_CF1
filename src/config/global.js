@@ -436,7 +436,7 @@ export default {
     },
     {
       texto:
-        'Motion Graphics en Koncepto. (2020). Las 50 + aplicaciones de Adobe. [video]. Youtube.',
+        '<i>Motion Graphics</i> en Koncepto. (2020). Las 50 + aplicaciones de Adobe. [video]. Youtube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=3YeOJaolM38',
     },
@@ -499,7 +499,7 @@ export default {
       },
       {
         nombre: 'Andrés Felipe Velandia Espitia',
-        cargo: 'Revisor Metodológico y Pedagógico',
+        cargo: 'Revisor metodológico y pedagógico',
         centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
       {
@@ -522,7 +522,7 @@ export default {
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: 'Blanca Flor tinoco torres',
+        nombre: 'Blanca Flor Tinoco Torres',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
