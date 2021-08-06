@@ -102,7 +102,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo: 'Navegador web',
+            titulo: 'Navegador <i>web</i>',
             hash: 't_3_1',
           },
           {
@@ -123,19 +123,19 @@ export default {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Sitios web',
+        titulo: 'Sitios <i>web</i>',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '4.1',
-            titulo: 'Etapas para el diseño y desarrollo de sitios web',
+            titulo: 'Etapas para el diseño y desarrollo de sitios <i>web</i>',
             hash: 't_4_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '4.2',
-            titulo: 'Qué es una estrategia web',
+            titulo: 'Qué es una estrategia <i>web</i>',
             hash: 't_4_2',
           },
         ],
@@ -144,7 +144,7 @@ export default {
         nombreRuta: 'tema5',
         icono: 'far fa-file-alt',
         numero: '5',
-        titulo: 'Página web',
+        titulo: 'Página <i>web</i>',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -162,19 +162,19 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '5.3',
-            titulo: 'Lenguajes web',
+            titulo: 'Lenguajes <i>web</i>',
             hash: 't_5_3',
           },
           {
             icono: 'far fa-file-alt',
             numero: '5.4',
-            titulo: 'Sitios para crear páginas web',
+            titulo: 'Sitios para crear páginas <i>web</i>',
             hash: 't_5_4',
           },
           {
             icono: 'far fa-file-alt',
             numero: '5.5',
-            titulo: 'Finalidad para crear un sitio web',
+            titulo: 'Finalidad para crear un sitio <i>web</i>',
             hash: 't_5_5',
           },
         ],
@@ -251,7 +251,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Bartolomé Pina, A. R. (1994). Multimedia interactivo y sus posibilidades en educación superior. Pixel-Bit. Revista de Medios y Educación, 1, 5-14. ',
+        'Bartolomé Pina, A. R. (1994). Multimedia interactivo y sus posibilidades en educación superior. <i>Pixel-Bit</i>. Revista de Medios y Educación, 1, 5-14. ',
       link:
         'https://idus.us.es/bitstream/handle/11441/45417/file_1.pdf?sequence=1&isAllowed=y',
     },
@@ -263,7 +263,7 @@ export default {
     },
     {
       referencia:
-        'Cadenas, R. (2019). ¿Qué necesito? Web Apss, App Nativa o App Hibrida.',
+        'Cadenas, R. (2019). ¿Qué necesito? <i>web</i> <i>Apss</i>, <i>App</i> Nativa o <i>App</i> Hibrida.',
       link:
         'https://www.gsoft.es/articulos/que-necesito-web-apps-app-nativa-o-app-hibrida/',
     },
@@ -280,7 +280,7 @@ export default {
     },
     {
       referencia:
-        'López, M. (2016). Programación web en el entorno del cliente. Ediciones de la U. ',
+        'López, M. (2016). Programación <i>web</i> en el entorno del cliente. Ediciones de la U. ',
       link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=7955 ',
     },
     {
@@ -298,17 +298,18 @@ export default {
       link: 'https://anincubator.com/que-es-una-aplicacion-movil/',
     },
     {
-      referencia: 'MDN contributors. (2019). ¿Qué es un servidor web? ',
+      referencia: 'MDN contributors. (2019). ¿Qué es un servidor <i>web</i>? ',
       link:
         'https://developer.mozilla.org/es/docs/Learn/Common_questions/What_is_a_web_server',
     },
     {
-      referencia: 'Montero, J. (2019). Por qué aprender C#. OpenWebinars.',
+      referencia:
+        'Montero, J. (2019). Por qué aprender C#. <i>OpenWebinars.</i>',
       link: 'https://openwebinars.net/blog/por-que-aprender-c-/ ',
     },
     {
       referencia:
-        'Muente, G. (2020). Guía completa del Framework: qué es, cuáles tipos existen y por qué es importante en Internet',
+        'Muente, G. (2020). Guía completa del <i>Framework:</i> qué es, cuáles tipos existen y por qué es importante en Internet',
       link: 'https://rockcontent.com/es/blog/framework/',
     },
     {
@@ -322,12 +323,12 @@ export default {
     {
       termino: 'Adobe',
       significado:
-        'Adobe Inc., antes Adobe Systems Incorporated, es una empresa de software estadounidense con sede en San José fundada el 28 de febrero de 1982 por John Warnock y Charles Geschke.',
+        'Adobe Inc., antes <i>Adobe Systems Incorporated</i>, es una empresa de <i>software</i> estadounidense con sede en San José fundada el 28 de febrero de 1982 por John Warnock y Charles Geschke.',
     },
     {
       termino: 'Android',
       significado:
-        'es un sistema operativo móvil diseñado para dispositivos móviles con pantalla táctil como teléfonos inteligentes o tablets, relojes inteligentes, entre otros',
+        'es un sistema operativo móvil diseñado para dispositivos móviles con pantalla táctil como teléfonos inteligentes o <i>tablets</i>, relojes inteligentes, entre otros',
     },
     {
       termino: 'App Store',
@@ -337,17 +338,17 @@ export default {
     {
       termino: 'Copywriter',
       significado:
-        'el copywriter es el redactor publicitario que escribe los llamados copy o textos publicitarios. Su actividad se conoce como copywriting. En muchos casos la tarea del copywriter va más allá del texto publicitario y es quien desarrolla la idea o el concepto que acabará convirtiéndose en la pieza creativa publicitaria.',
+        'el <i>copywriter</i> es el redactor publicitario que escribe los llamados <i>copy</i> o textos publicitarios. Su actividad se conoce como <i>copywriting</i>. En muchos casos la tarea del <i>copywriter</i> va más allá del texto publicitario y es quien desarrolla la idea o el concepto que acabará convirtiéndose en la pieza creativa publicitaria.',
     },
     {
       termino: 'Dominio',
       significado:
-        'denominación que se le da a un sitio web conectado a una red de internet.',
+        'denominación que se le da a un sitio <i>web</i> conectado a una red de internet.',
     },
     {
       termino: 'Frameworks',
       significado:
-        'es una estructura previa que se puede aprovechar para desarrollar un proyecto, el Framework es una especie de plantilla, un esquema conceptual, que simplifica la elaboración de una tarea.',
+        'es una estructura previa que se puede aprovechar para desarrollar un proyecto, el <i>Framework</i> es una especie de plantilla, un esquema conceptual, que simplifica la elaboración de una tarea.',
     },
     {
       termino: 'Hipertexto',
@@ -357,12 +358,12 @@ export default {
     {
       termino: 'Hosting',
       significado:
-        'espacio que se alquila en el disco duro de un servidor para almacenar páginas web.',
+        'espacio que se alquila en el disco duro de un servidor para almacenar páginas <i>web</i>.',
     },
     {
       termino: 'HTML',
       significado:
-        'lenguaje de marcas de hipertexto que se utiliza para el desarrollo de páginas web.',
+        'lenguaje de marcas de hipertexto que se utiliza para el desarrollo de páginas <i>web</i>.',
     },
     {
       termino: 'IOS',
@@ -377,7 +378,7 @@ export default {
     {
       termino: 'PHP',
       significado:
-        'lenguaje de programación utilizado para el desarrollo de páginas web dinámicas, para almacenar información en bases de datos.',
+        'lenguaje de programación utilizado para el desarrollo de páginas <i>web</i> dinámicas, para almacenar información en bases de datos.',
     },
     {
       termino: 'Storyboards',
