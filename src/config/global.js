@@ -87,7 +87,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Software de diseño multimedia',
+            titulo: '<i>Software</i> de diseño multimedia',
             hash: 't_2_2',
           },
         ],
