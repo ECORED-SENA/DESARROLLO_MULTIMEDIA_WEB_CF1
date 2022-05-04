@@ -257,13 +257,13 @@ export default {
     },
     {
       referencia:
-        'BambuMobile. (2021). Tecnologías clave para el desarrollo de Apss.',
+        'BambuMobile. (2021). Tecnologías clave para el desarrollo de Apss. ',
       link:
         'https://www.bambu-mobile.com/tecnologias-clave-para-el-desarrollo-de-apps/',
     },
     {
       referencia:
-        'Cadenas, R. (2019). ¿Qué necesito? <i>web</i> <i>Apss</i>, <i>App</i> Nativa o <i>App</i> Hibrida.',
+        'Cadenas, R. (2019). ¿Qué necesito? <i>web</i> <i>Apss</i>, <i>App</i> Nativa o <i>App</i> Hibrida. ',
       link:
         'https://www.gsoft.es/articulos/que-necesito-web-apps-app-nativa-o-app-hibrida/',
     },
@@ -275,22 +275,12 @@ export default {
     },
     {
       referencia:
-        'Carballar, J. A. (2013). Internet, libro del navegante. Ediciones de la U.',
-      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=8103',
-    },
-    {
-      referencia:
-        'López, M. (2016). Programación <i>web</i> en el entorno del cliente. Ediciones de la U. ',
-      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=7955 ',
-    },
-    {
-      referencia:
-        'Mena, J. (2018). Proyectos multimedia educativos y etapas para su desarrollo.',
+        'Mena, J. (2018). Proyectos multimedia educativos y etapas para su desarrollo. ',
       link:
         'https://www.eumed.net/rev/atlante/2018/08/proyectos-multimedia-educativos.html ',
     },
     {
-      referencia: 'EcuRed. (2019). Diseño Multimedia.',
+      referencia: 'EcuRed. (2019). Diseño Multimedia. ',
       link: 'https://www.ecured.cu/Dise%C3%B1o_multimedia',
     },
     {
@@ -304,17 +294,17 @@ export default {
     },
     {
       referencia:
-        'Montero, J. (2019). Por qué aprender C#. <i>OpenWebinars.</i>',
+        'Montero, J. (2019). Por qué aprender C#. <i>OpenWebinars.</i> ',
       link: 'https://openwebinars.net/blog/por-que-aprender-c-/ ',
     },
     {
       referencia:
-        'Muente, G. (2020). Guía completa del <i>Framework:</i> qué es, cuáles tipos existen y por qué es importante en Internet',
+        'Muente, G. (2020). Guía completa del <i>Framework:</i> qué es, cuáles tipos existen y por qué es importante en Internet. ',
       link: 'https://rockcontent.com/es/blog/framework/',
     },
     {
       referencia:
-        'Suñol, J. (s.f.).Dominios, su necesidad y sus implicaciones.',
+        'Suñol, J. (s.f.).Dominios, su necesidad y sus implicaciones. ',
       link:
         'https://upcommons.upc.edu/bitstream/handle/2117/10300/Dominios,%20su%20necesidad%20y%20sus%20implicaciones.pdf',
     },

@@ -619,7 +619,7 @@
         p Las aplicaciones móviles son diversas y se encuentran en muchas formas y contenidos, en este recurso se referencian algunas de las #[i apps] más populares, dentro de las tendencias para móviles más descargadas por los usuarios:
         .row
           .col-auto
-            a.anexo.mb-4(:href="obtenerLink('/downloads/tipos_aplicaciones_moviles.pdf')" target="_blank")
+            a.anexo.mb-4(:href="obtenerLink('downloads/tipos_aplicaciones_moviles.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
